@@ -1,175 +1,1094 @@
 {
-    "operatorKey" : {
-        "spearhead" : {
-            "star6" : [
-                ["シージ", "Siege"], ["バグパイプ", "Bagpipes"], ["サガ", "Saga"], ["サイラッハ", "Saileach"], ["フレイムテイル", "Flametail"]
+    "operatorKey": {
+        "spearhead": {
+            "star6": [
+                [
+                    "シージ",
+                    "Siege"
+                ],
+                [
+                    "バグパイプ",
+                    "Bagpipes"
+                ],
+                [
+                    "サガ",
+                    "Saga"
+                ],
+                [
+                    "サイラッハ",
+                    "Saileach"
+                ],
+                [
+                    "フレイムテイル",
+                    "Flametail"
+                ]
             ],
-            "star5" : [
-                ["ズィマー", "Zimmer"], ["テキサス", "Texas"], ["グラニ", "Grani"], ["リード", "Reed"], ["キアーベ", "Chiave"],
-                ["エリジウム", "Elysium"], ["ワイルドメイン", "Waildmaane"], ["ブラックナイト", "BlackKnight"], ["カンタービレ", "Cantabile"]
+            "star5": [
+                [
+                    "ズィマー",
+                    "Zimmer"
+                ],
+                [
+                    "テキサス",
+                    "Texas"
+                ],
+                [
+                    "グラニ",
+                    "Grani"
+                ],
+                [
+                    "リード",
+                    "Reed"
+                ],
+                [
+                    "キアーベ",
+                    "Chiave"
+                ],
+                [
+                    "エリジウム",
+                    "Elysium"
+                ],
+                [
+                    "ワイルドメイン",
+                    "Waildmaane"
+                ],
+                [
+                    "ブラックナイト",
+                    "BlackKnight"
+                ],
+                [
+                    "カンタービレ",
+                    "Cantabile"
+                ]
             ],
-            "star4" : [
-                ["ヴィグナ", "Vigna"], ["クーリエ", "Courier"], ["スカベンジャー", "Scavenger"], ["テンニンカ", "Myrtle"], ["ビーンストーク", "BeanStalk"]
+            "star4": [
+                [
+                    "ヴィグナ",
+                    "Vigna"
+                ],
+                [
+                    "クーリエ",
+                    "Courier"
+                ],
+                [
+                    "スカベンジャー",
+                    "Scavenger"
+                ],
+                [
+                    "テンニンカ",
+                    "Myrtle"
+                ],
+                [
+                    "ビーンストーク",
+                    "BeanStalk"
+                ]
             ],
-            "star3" : [
-                ["バニラ", "Vanilla"], ["フェン", "Fang"], ["プリュム", "Plume"]
+            "star3": [
+                [
+                    "バニラ",
+                    "Vanilla"
+                ],
+                [
+                    "フェン",
+                    "Fang"
+                ],
+                [
+                    "プリュム",
+                    "Plume"
+                ]
             ],
-            "star2" : [
-                ["ヤトウ", "Yato"]
+            "star2": [
+                [
+                    "ヤトウ",
+                    "Yato"
+                ]
             ],
-            "star1" : []
+            "star1": []
         },
-        "vanguard" : {
-            "star6" : [
-                ["シルバーアッシュ", "Silverash"], ["スカジ", "Skadi"], ["チェン", "Chen"], ["ヘラグ", "Hellagur"], ["ブレイズ", "Blaze"],
-                ["ソーンズ", "Thorns"], ["スルト", "Surt"], ["マウンテン", "Mountain"], ["パラス", "Pallas"], ["耀騎士ニアール", "NearlTheRadiantKnight"],
-                ["アイリーニ", "Irena"], ["百錬ガヴィル", "GavialTheInvincible"]
+        "vanguard": {
+            "star6": [
+                [
+                    "シルバーアッシュ",
+                    "Silverash"
+                ],
+                [
+                    "スカジ",
+                    "Skadi"
+                ],
+                [
+                    "チェン",
+                    "Chen"
+                ],
+                [
+                    "ヘラグ",
+                    "Hellagur"
+                ],
+                [
+                    "ブレイズ",
+                    "Blaze"
+                ],
+                [
+                    "ソーンズ",
+                    "Thorns"
+                ],
+                [
+                    "スルト",
+                    "Surt"
+                ],
+                [
+                    "マウンテン",
+                    "Mountain"
+                ],
+                [
+                    "パラス",
+                    "Pallas"
+                ],
+                [
+                    "耀騎士ニアール",
+                    "NearlTheRadiantKnight"
+                ],
+                [
+                    "アイリーニ",
+                    "Irena"
+                ],
+                [
+                    "百錬ガヴィル",
+                    "GavialTheInvincible"
+                ]
             ],
-            "star5" : [
-                ["インドラ", "Indra"], ["サベージ", "Savage"], ["スペクター", "Specter"], ["フランカ", "Franka"], ["ラップランド", "Lappland"],
-                ["スワイヤー", "Swire"], ["エンカク", "Flamebringer"], ["アステシア", "Astesia"], ["ブローカ", "Broca"], ["バイビーク", "Bibeak"],
-                ["エアースカーペ", "Ayerscarpe"], ["シデロカ", "Sideroca"], ["フリント", "Flont"], ["ウィスラッシュ", "Whislash"], ["前衛アーミヤ", ""],
-                ["Tachanka", "Tachanka"], ["アカフユ", "Akafuyu"], ["テキーラ", "Tequila"], ["ラ・プルマ", "Lapuluma"]
+            "star5": [
+                [
+                    "インドラ",
+                    "Indra"
+                ],
+                [
+                    "サベージ",
+                    "Savage"
+                ],
+                [
+                    "スペクター",
+                    "Specter"
+                ],
+                [
+                    "フランカ",
+                    "Franka"
+                ],
+                [
+                    "ラップランド",
+                    "Lappland"
+                ],
+                [
+                    "スワイヤー",
+                    "Swire"
+                ],
+                [
+                    "エンカク",
+                    "Flamebringer"
+                ],
+                [
+                    "アステシア",
+                    "Astesia"
+                ],
+                [
+                    "ブローカ",
+                    "Broca"
+                ],
+                [
+                    "バイビーク",
+                    "Bibeak"
+                ],
+                [
+                    "エアースカーペ",
+                    "Ayerscarpe"
+                ],
+                [
+                    "シデロカ",
+                    "Sideroca"
+                ],
+                [
+                    "フリント",
+                    "Flont"
+                ],
+                [
+                    "ウィスラッシュ",
+                    "Whislash"
+                ],
+                [
+                    "前衛アーミヤ",
+                    ""
+                ],
+                [
+                    "Tachanka",
+                    "Tachanka"
+                ],
+                [
+                    "アカフユ",
+                    "Akafuyu"
+                ],
+                [
+                    "テキーラ",
+                    "Tequila"
+                ],
+                [
+                    "ラ・プルマ",
+                    "Lapuluma"
+                ]
             ],
-            "star4" : [
-                ["エステル", "Estelle"], ["ドーベルマン", "Doberman"], ["フロストリーフ", "Frostleaf"], ["マトイマル", "Matoimaru"], ["ムース", "Mousse"],
-                ["ビーハンター", "Beehunter"], ["ウタゲ", "Utage"], ["カッター", "Cutter"], ["アレーン", "Arene"], ["コンビクション", "Conviction"],
-                ["ジャッキー", ""]
+            "star4": [
+                [
+                    "エステル",
+                    "Estelle"
+                ],
+                [
+                    "ドーベルマン",
+                    "Doberman"
+                ],
+                [
+                    "フロストリーフ",
+                    "Frostleaf"
+                ],
+                [
+                    "マトイマル",
+                    "Matoimaru"
+                ],
+                [
+                    "ムース",
+                    "Mousse"
+                ],
+                [
+                    "ビーハンター",
+                    "Beehunter"
+                ],
+                [
+                    "ウタゲ",
+                    "Utage"
+                ],
+                [
+                    "カッター",
+                    "Cutter"
+                ],
+                [
+                    "アレーン",
+                    "Arene"
+                ],
+                [
+                    "コンビクション",
+                    "Conviction"
+                ],
+                [
+                    "ジャッキー",
+                    "Jackie"
+                ]
             ],
-            "star3" : [
-                ["ポプカル", "Melantha"], ["ミッドナイト", "Midnight"], ["メランサ", "Popukar"]
+            "star3": [
+                [
+                    "ポプカル",
+                    "Popukar"
+                ],
+                [
+                    "ミッドナイト",
+                    "Midnight"
+                ],
+                [
+                    "メランサ",
+                    "Melantha"
+                ]
             ],
-            "star2" : [],
-            "star1" : [
-                ["Castle-3", ""]
+            "star2": [],
+            "star1": [
+                [
+                    "Castle-3",
+                    ""
+                ]
             ]
         },
-        "heavyArmor" : {
-            "star6" : [
-                ["サリア", "Saria"], ["ホシグマ", "Hoshiguma"], ["ニェン", "Nian"], ["ユーネクテス", "Eunectes"], ["ブレミシャイン", "Blemishine"],
-                ["マドロック", "Mudrock"], ["ホルン", "Horn"]
+        "heavyArmor": {
+            "star6": [
+                [
+                    "サリア",
+                    "Saria"
+                ],
+                [
+                    "ホシグマ",
+                    "Hoshiguma"
+                ],
+                [
+                    "ニェン",
+                    "Nian"
+                ],
+                [
+                    "ユーネクテス",
+                    "Eunectes"
+                ],
+                [
+                    "ブレミシャイン",
+                    "Blemishine"
+                ],
+                [
+                    "マドロック",
+                    "Mudrock"
+                ],
+                [
+                    "ホルン",
+                    "Horn"
+                ]
             ],
-            "star5" : [
-                ["ヴァルカン", "Vulcan"], ["クロワッサン", "Croissant"], ["ニアール", "Nearl"], ["リスカム", "Liskarm"], ["バイソン", "Bison"],
-                ["ウン", "Hung"], ["アスベストス", "Asbestos"], ["Blitz", "Blitz"], ["ヘビーレイン", "Heavyrain"], ["アッシュロック", "Ashlock"],
-                ["オーロラ", "Aurora"], ["シャレム", "Shalem"], ["ツェルニー", "Czerny"]
+            "star5": [
+                [
+                    "ヴァルカン",
+                    "Vulcan"
+                ],
+                [
+                    "クロワッサン",
+                    "Croissant"
+                ],
+                [
+                    "ニアール",
+                    "Nearl"
+                ],
+                [
+                    "リスカム",
+                    "Liskarm"
+                ],
+                [
+                    "バイソン",
+                    "Bison"
+                ],
+                [
+                    "ウン",
+                    "Hung"
+                ],
+                [
+                    "アスベストス",
+                    "Asbestos"
+                ],
+                [
+                    "Blitz",
+                    "Blitz"
+                ],
+                [
+                    "ヘビーレイン",
+                    "Heavyrain"
+                ],
+                [
+                    "アッシュロック",
+                    "Ashlock"
+                ],
+                [
+                    "オーロラ",
+                    "Aurora"
+                ],
+                [
+                    "シャレム",
+                    "Shalem"
+                ],
+                [
+                    "ツェルニー",
+                    "Czerny"
+                ]
             ],
-            "star4" : [
-                ["クオーラ", "Cuora"], ["グム", "gumm"], ["マッターホルン", "Matterhorn"], ["ジュナー", "Durnar"], ["バブル", "Bubble"]
+            "star4": [
+                [
+                    "クオーラ",
+                    "Cuora"
+                ],
+                [
+                    "グム",
+                    "gumm"
+                ],
+                [
+                    "マッターホルン",
+                    "Matterhorn"
+                ],
+                [
+                    "ジュナー",
+                    "Durnar"
+                ],
+                [
+                    "バブル",
+                    "Bubble"
+                ]
             ],
-            "star3" : [
-                ["カーディ", "Cardigan"], ["ビーグル", "Beagle"], ["スポット", "Spot"]
+            "star3": [
+                [
+                    "カーディ",
+                    "Cardigan"
+                ],
+                [
+                    "ビーグル",
+                    "Beagle"
+                ],
+                [
+                    "スポット",
+                    "Spot"
+                ]
             ],
-            "star2" : [
-                ["ノイルホーン", "NoirCorne"]
+            "star2": [
+                [
+                    "ノイルホーン",
+                    "NoirCorne"
+                ]
             ],
-            "star1" : []
+            "star1": []
         },
-        "sniper" : {
-            "star6" : [
-                ["エクシア", "exusiai"], ["シュヴァルツ", "schwarz"], ["ロサ", "poca"], ["W", "w"], ["ロスモンティス", "rosmontis"],
-                ["アルケット", "archetto"], ["Ash", "Ash"], ["遊龍チェン", "ChenTheHolungday"], ["ファートゥース", "Fartooth"], ["フィアメッタ", "Fiammetta"],
-                ["パゼオンカ", "pazeonka"]
+        "sniper": {
+            "star6": [
+                [
+                    "エクシア",
+                    "exusiai"
+                ],
+                [
+                    "シュヴァルツ",
+                    "schwarz"
+                ],
+                [
+                    "ロサ",
+                    "poca"
+                ],
+                [
+                    "W",
+                    "w"
+                ],
+                [
+                    "ロスモンティス",
+                    "rosmontis"
+                ],
+                [
+                    "アルケット",
+                    "archetto"
+                ],
+                [
+                    "Ash",
+                    "Ash"
+                ],
+                [
+                    "遊龍チェン",
+                    "ChenTheHolungday"
+                ],
+                [
+                    "ファートゥース",
+                    "Fartooth"
+                ],
+                [
+                    "フィアメッタ",
+                    "Fiammetta"
+                ],
+                [
+                    "パゼオンカ",
+                    "pazeonka"
+                ]
             ],
-            "star5" : [
-                ["アズリウス", "BluePoison"], ["ファイヤーウォッチ", "Firewatch"], ["プラチナ", "Platinum"], ["プロヴァンス", "Provence"], ["メテオリーテ", "Meteorite"],
-                ["イグゼキュター", "Executor"], ["グレースロート", "GreyThroat"], ["シェーシャ", "Sesa"], ["アンドレアナ", "Andreana"], ["エイプリル", "April"],
-                ["アオスタ", "Aosta"], ["トギフォンス", "Toddifons"], ["寒芒クルース", "KroosTheKeenGlint"], ["エラト", "Erato"], ["承曦グレイ", "GreyyTheLightningbearer"]
+            "star5": [
+                [
+                    "アズリウス",
+                    "BluePoison"
+                ],
+                [
+                    "ファイヤーウォッチ",
+                    "Firewatch"
+                ],
+                [
+                    "プラチナ",
+                    "Platinum"
+                ],
+                [
+                    "プロヴァンス",
+                    "Provence"
+                ],
+                [
+                    "メテオリーテ",
+                    "Meteorite"
+                ],
+                [
+                    "イグゼキュター",
+                    "Executor"
+                ],
+                [
+                    "グレースロート",
+                    "GreyThroat"
+                ],
+                [
+                    "シェーシャ",
+                    "Sesa"
+                ],
+                [
+                    "アンドレアナ",
+                    "Andreana"
+                ],
+                [
+                    "エイプリル",
+                    "April"
+                ],
+                [
+                    "アオスタ",
+                    "Aosta"
+                ],
+                [
+                    "トギフォンス",
+                    "Toddifons"
+                ],
+                [
+                    "寒芒クルース",
+                    "KroosTheKeenGlint"
+                ],
+                [
+                    "エラト",
+                    "Erato"
+                ],
+                [
+                    "承曦グレイ",
+                    "GreyyTheLightningbearer"
+                ]
             ],
-            "star4" : [
-                ["ジェシカ", "Jessica"], ["シラユキ", "ShiraYuki"], ["メテオ", "Meteor"], ["ヴァーミル", "Vermeil"], ["メイ", "May"],
-                ["アンブリエル", "Ambriel"], ["アシッドドロップ", "Aciddrop"], ["パインコーン", "Pinecone"]
+            "star4": [
+                [
+                    "ジェシカ",
+                    "Jessica"
+                ],
+                [
+                    "シラユキ",
+                    "ShiraYuki"
+                ],
+                [
+                    "メテオ",
+                    "Meteor"
+                ],
+                [
+                    "ヴァーミル",
+                    "Vermeil"
+                ],
+                [
+                    "メイ",
+                    "May"
+                ],
+                [
+                    "アンブリエル",
+                    "Ambriel"
+                ],
+                [
+                    "アシッドドロップ",
+                    "Aciddrop"
+                ],
+                [
+                    "パインコーン",
+                    "Pinecone"
+                ]
             ],
-            "star3" : [
-                ["アドナキエル", "Adnachiel"], ["クルース", "Kroos"], ["カタパルト", "Catapult"]
+            "star3": [
+                [
+                    "アドナキエル",
+                    "Adnachiel"
+                ],
+                [
+                    "クルース",
+                    "Kroos"
+                ],
+                [
+                    "カタパルト",
+                    "Catapult"
+                ]
             ],
-            "star2" : [
-                ["レンジャー", "Rangers"]
+            "star2": [
+                [
+                    "レンジャー",
+                    "Rangers"
+                ]
             ],
-            "star1" : [
-                ["ジャスティスナイト", "JusticeKnight"]
+            "star1": [
+                [
+                    "ジャスティスナイト",
+                    "JusticeKnight"
+                ]
             ]
         },
-        "magician" : {
-            "star6" : [
-                ["イフリータ", "Ifrit"], ["エイヤフィヤトラ", "Eyjafialla"], ["モスティマ", "Mostima"], ["ケオベ", "Ceobe"], ["シー", "Dusk"],
-                ["パッセンジャー", "Passenger"], ["カーネリアン", "Carnelian"], ["ゴールデングロー", "Goldenglow"], ["エーベンホルツ", "Ebenholz"]
+        "magician": {
+            "star6": [
+                [
+                    "イフリータ",
+                    "Ifrit"
+                ],
+                [
+                    "エイヤフィヤトラ",
+                    "Eyjafialla"
+                ],
+                [
+                    "モスティマ",
+                    "Mostima"
+                ],
+                [
+                    "ケオベ",
+                    "Ceobe"
+                ],
+                [
+                    "シー",
+                    "Dusk"
+                ],
+                [
+                    "パッセンジャー",
+                    "Passenger"
+                ],
+                [
+                    "カーネリアン",
+                    "Carnelian"
+                ],
+                [
+                    "ゴールデングロー",
+                    "Goldenglow"
+                ],
+                [
+                    "エーベンホルツ",
+                    "Ebenholz"
+                ]
             ],
-            "star5" : [
-                ["アーミヤ", "Amiya"], ["スカイフレア", "Skyfire"], ["ナイトメア", "Nightmare"], ["レイズ", "Leizi"], ["レオンハルト", "LeonHardt"],
-                ["アブサント", "Absinthe"], ["ビーズワクス", "Beeswax"], ["トミミ", "Tomimi"], ["ミント", "Mint"], ["アイリス", "Iris"],
-                ["炎獄ラヴァ", "LavaThePurgatory"], ["コロセラム", "Corroserum"], ["イェラ", "Kjera"], ["ロックロック", "Rockrock"], ["ミニマリスト", "Minimalist"],
-                ["アステジーニ", ""]
+            "star5": [
+                [
+                    "アーミヤ",
+                    "Amiya"
+                ],
+                [
+                    "スカイフレア",
+                    "Skyfire"
+                ],
+                [
+                    "ナイトメア",
+                    "Nightmare"
+                ],
+                [
+                    "レイズ",
+                    "Leizi"
+                ],
+                [
+                    "レオンハルト",
+                    "LeonHardt"
+                ],
+                [
+                    "アブサント",
+                    "Absinthe"
+                ],
+                [
+                    "ビーズワクス",
+                    "Beeswax"
+                ],
+                [
+                    "トミミ",
+                    "Tomimi"
+                ],
+                [
+                    "ミント",
+                    "Mint"
+                ],
+                [
+                    "アイリス",
+                    "Iris"
+                ],
+                [
+                    "炎獄ラヴァ",
+                    "LavaThePurgatory"
+                ],
+                [
+                    "コロセラム",
+                    "Corroserum"
+                ],
+                [
+                    "イェラ",
+                    "Kjera"
+                ],
+                [
+                    "ロックロック",
+                    "Rockrock"
+                ],
+                [
+                    "ミニマリスト",
+                    "Minimalist"
+                ],
+                [
+                    "アステジーニ",
+                    ""
+                ]
             ],
-            "star4" : [
-                ["ヘイズ", "Haze"], ["ギターノ", "Gitano"], ["グレイ", "Greyy"], ["カシャ", "Click"], ["インディゴ", "Indigo"],
-                ["プリン", "Pudding"]
+            "star4": [
+                [
+                    "ヘイズ",
+                    "Haze"
+                ],
+                [
+                    "ギターノ",
+                    "Gitano"
+                ],
+                [
+                    "グレイ",
+                    "Greyy"
+                ],
+                [
+                    "カシャ",
+                    "Click"
+                ],
+                [
+                    "インディゴ",
+                    "Indigo"
+                ],
+                [
+                    "プリン",
+                    "Pudding"
+                ]
             ],
-            "star3" : [
-                ["スチュワード", "Steward"], ["ラヴァ", "Lava"]
+            "star3": [
+                [
+                    "スチュワード",
+                    "Steward"
+                ],
+                [
+                    "ラヴァ",
+                    "Lava"
+                ]
             ],
-            "star2" : [
-                ["ドゥリン", "Durin"], ["12F", "12F"]
+            "star2": [
+                [
+                    "ドゥリン",
+                    "Durin"
+                ],
+                [
+                    "12F",
+                    "12F"
+                ]
             ],
-            "star1" : []
+            "star1": []
         },
-        "medical" : {
-            "star6" : [
-                ["シャイニング", "Shining"], ["ナイチンゲール", "Nightingale"], ["ケルシー", "Kaltsit"], ["ルーメン", "Lumen"]
+        "medical": {
+            "star6": [
+                [
+                    "シャイニング",
+                    "Shining"
+                ],
+                [
+                    "ナイチンゲール",
+                    "Nightingale"
+                ],
+                [
+                    "ケルシー",
+                    "Kaltsit"
+                ],
+                [
+                    "ルーメン",
+                    "Lumen"
+                ]
             ],
-            "star5" : [
-                ["サイレンス", "Silence"], ["フィリオプシス", "Ptilopsis"], ["ワルファリン", "Warfarin"], ["セイロン", "Ceylon"], ["ブリーズ", "Breeze"],
-                ["フォリニック", "Folinic"], ["ウィスパーレイン", "Whisperain"], ["トゥイエ", "Tuye"], ["マルベリー", "Mulberry"], ["ハニーベリー", "Honeyberry"],
-                ["濯塵ハイビスカス", "HibiscusThePurifier"]
+            "star5": [
+                [
+                    "サイレンス",
+                    "Silence"
+                ],
+                [
+                    "フィリオプシス",
+                    "Ptilopsis"
+                ],
+                [
+                    "ワルファリン",
+                    "Warfarin"
+                ],
+                [
+                    "セイロン",
+                    "Ceylon"
+                ],
+                [
+                    "ブリーズ",
+                    "Breeze"
+                ],
+                [
+                    "フォリニック",
+                    "Folinic"
+                ],
+                [
+                    "ウィスパーレイン",
+                    "Whisperain"
+                ],
+                [
+                    "トゥイエ",
+                    "Tuye"
+                ],
+                [
+                    "マルベリー",
+                    "Mulberry"
+                ],
+                [
+                    "ハニーベリー",
+                    "Honeyberry"
+                ],
+                [
+                    "濯塵ハイビスカス",
+                    "HibiscusThePurifier"
+                ]
             ],
-            "star4" : [
-                ["ガヴィル", "Gavial"], ["パヒューマー", "Perfumer"], ["ミルラ", "Myrrh"], ["ススーロ", "Sussurro"], ["セイリュウ", "Purestream"],
-                ["チェストナット", "Chestnut"]
+            "star4": [
+                [
+                    "ガヴィル",
+                    "Gavial"
+                ],
+                [
+                    "パヒューマー",
+                    "Perfumer"
+                ],
+                [
+                    "ミルラ",
+                    "Myrrh"
+                ],
+                [
+                    "ススーロ",
+                    "Sussurro"
+                ],
+                [
+                    "セイリュウ",
+                    "Purestream"
+                ],
+                [
+                    "チェストナット",
+                    "Chestnut"
+                ]
             ],
-            "star3" : [
-                ["アンセル", "Hibiscus"], ["ハイビスカス", "Ansel"]
+            "star3": [
+                [
+                    "アンセル",
+                    "Ansel"
+                ],
+                [
+                    "ハイビスカス",
+                    "Hibiscus"
+                ]
             ],
-            "star2" : [
-                ["Lancet-2", "Lancet2"]
+            "star2": [
+                [
+                    "Lancet-2",
+                    "Lancet2"
+                ]
             ],
-            "star1" : []
+            "star1": []
         },
-        "auxiliary" : {
-            "star6" : [
-                ["アンジェリーナ", "Angelina"], ["マゼラン", "Magallan"], ["スズラン", "Suzuran"], ["濁心スカジ", "SkadiTheCorruptingHeart"], ["ノーシス", "Gnosis"],
-                ["リィン", "Ling"]
+        "auxiliary": {
+            "star6": [
+                [
+                    "アンジェリーナ",
+                    "Angelina"
+                ],
+                [
+                    "マゼラン",
+                    "Magallan"
+                ],
+                [
+                    "スズラン",
+                    "Suzuran"
+                ],
+                [
+                    "濁心スカジ",
+                    "SkadiTheCorruptingHeart"
+                ],
+                [
+                    "ノーシス",
+                    "Gnosis"
+                ],
+                [
+                    "リィン",
+                    "Ling"
+                ]
             ],
-            "star5" : [
-                ["イースチナ", ""], ["ソラ", "Sora"], ["プラマニクス", "Pramanix"], ["メイヤー", "Mayer"], ["グラウコス", "Glaucus"],
-                ["ツキノギ", "Tsukinogi"], ["シャマレ", "Shamare"], ["シーン", "Scene"], ["九色鹿", "NinecoloredDer"], ["クエルクス", "Quercus"],
-                ["ハイディ", "Heidi"], ["ウインドフリット", "Windflit"]
+            "star5": [
+                [
+                    "イースチナ",
+                    "Eastina"
+                ],
+                [
+                    "ソラ",
+                    "Sora"
+                ],
+                [
+                    "プラマニクス",
+                    "Pramanix"
+                ],
+                [
+                    "メイヤー",
+                    "Mayer"
+                ],
+                [
+                    "グラウコス",
+                    "Glaucus"
+                ],
+                [
+                    "ツキノギ",
+                    "Tsukinogi"
+                ],
+                [
+                    "シャマレ",
+                    "Shamare"
+                ],
+                [
+                    "シーン",
+                    "Scene"
+                ],
+                [
+                    "九色鹿",
+                    "NinecoloredDer"
+                ],
+                [
+                    "クエルクス",
+                    "Quercus"
+                ],
+                [
+                    "ハイディ",
+                    "Heidi"
+                ],
+                [
+                    "ウインドフリット",
+                    "Windflit"
+                ]
             ],
-            "star4" : [
-                ["アーススピリット", "Earthspirit"], ["ディピカ", "Deepcolor"], ["ポデンコ", "Podenco"], ["ロベルタ", "Roberta"]
+            "star4": [
+                [
+                    "アーススピリット",
+                    "Earthspirit"
+                ],
+                [
+                    "ディピカ",
+                    "Deepcolor"
+                ],
+                [
+                    "ポデンコ",
+                    "Podenco"
+                ],
+                [
+                    "ロベルタ",
+                    "Roberta"
+                ]
             ],
-            "star3" : [
-                ["オーキッド", "Orchid"]
+            "star3": [
+                [
+                    "オーキッド",
+                    "Orchid"
+                ]
             ],
-            "star2" : [],
-            "star1" : []
+            "star2": [],
+            "star1": []
         },
-        "special" : {
-            "star6" : [
-                ["ア", "Aak"], ["ファントム", "Phantom"], ["ウィーディ", "Weedy"], ["グレイディーア", "Gladiia"], ["ミヅキ", "Mizuki"],
-                ["リー", "Lee"], ["帰溟スペクター", "SpectorTheUnchained"], ["ドロシー", "Dorothy"]
+        "special": {
+            "star6": [
+                [
+                    "ア",
+                    "Aak"
+                ],
+                [
+                    "ファントム",
+                    "Phantom"
+                ],
+                [
+                    "ウィーディ",
+                    "Weedy"
+                ],
+                [
+                    "グレイディーア",
+                    "Gladiia"
+                ],
+                [
+                    "ミヅキ",
+                    "Mizuki"
+                ],
+                [
+                    "リー",
+                    "Lee"
+                ],
+                [
+                    "帰溟スペクター",
+                    "SpecterTheUnchained"
+                ],
+                [
+                    "ドロシー",
+                    "Dorothy"
+                ]
             ],
-            "star5" : [
-                ["エフイーター", "FEater"], ["クリフハート", "Cliffheart"], ["マンティコア", "Manticore"], ["レッド", "ProjektRed"], ["ワイフー", "WaaiFu"],
-                ["スノーズント", "Snowsant"], ["カフカ", "Kafka"], ["ロビン", "Robin"], ["ウユウ", "MrNothing"], ["Frost", "Frost"],
-                ["キララ", "Kirara"], ["ベナ", "Bena"], ["エンフォーサー", "Enforcer"], ["カゼマル", "Kazemaru"]
+            "star5": [
+                [
+                    "エフイーター",
+                    "FEater"
+                ],
+                [
+                    "クリフハート",
+                    "Cliffheart"
+                ],
+                [
+                    "マンティコア",
+                    "Manticore"
+                ],
+                [
+                    "レッド",
+                    "ProjektRed"
+                ],
+                [
+                    "ワイフー",
+                    "WaaiFu"
+                ],
+                [
+                    "スノーズント",
+                    "Snowsant"
+                ],
+                [
+                    "カフカ",
+                    "Kafka"
+                ],
+                [
+                    "ロビン",
+                    "Robin"
+                ],
+                [
+                    "ウユウ",
+                    "MrNothing"
+                ],
+                [
+                    "Frost",
+                    "Frost"
+                ],
+                [
+                    "キララ",
+                    "Kirara"
+                ],
+                [
+                    "ベナ",
+                    "Bena"
+                ],
+                [
+                    "エンフォーサー",
+                    "Enforcer"
+                ],
+                [
+                    "カゼマル",
+                    "Kazemaru"
+                ]
             ],
-            "star4" : [
-                ["グラベル", "Gravel"], ["ショウ", "Shaw"], ["ロープ", "Rope"], ["イーサン", "Ethan"], ["ジェイ", "Jaye"]
+            "star4": [
+                [
+                    "グラベル",
+                    "Gravel"
+                ],
+                [
+                    "ショウ",
+                    "Shaw"
+                ],
+                [
+                    "ロープ",
+                    "Rope"
+                ],
+                [
+                    "イーサン",
+                    "Ethan"
+                ],
+                [
+                    "ジェイ",
+                    "Jaye"
+                ]
             ],
-            "star3" : [],
-            "star2" : [],
-            "star1" : [
-                ["THRM-EX", "ThrmEx"]
+            "star3": [],
+            "star2": [],
+            "star1": [
+                [
+                    "THRM-EX",
+                    "ThrmEx"
+                ]
             ]
         }
     },
@@ -207,7 +1126,80 @@
                 "昇進２凸有"
             ]
         },
-        "本体": {
+        "スキル1": {
+            "ダメージ": [
+                "物理",
+                "術"
+            ],
+            "物理": [
+                "加算",
+                "減算"
+            ],
+            "術": [
+                "加算",
+                "乗算"
+            ]
+        },
+        "スキル2": {
+            "ダメージ": [
+                "物理",
+                "術"
+            ],
+            "物理": [
+                "加算",
+                "減算"
+            ],
+            "術": [
+                "乗算"
+            ]
+        },
+        "スキル3": {
+            "ダメージ": [
+                "物理",
+                "術"
+            ],
+            "物理": [
+                "加算",
+                "減算"
+            ],
+            "術": [
+                "乗算"
+            ]
+        },
+        "使役": {
+            "通常攻撃": "normalAttack",
+            "遠近距離": "position",
+            "陣営": "camp",
+            "召喚": "summon",
+            "特性": {
+                "計算位置": "計算位置(乗算)",
+                "計算位置(乗算)": [
+                    "モジュール無し",
+                    "モジュール有"
+                ]
+            },
+            "素質": {
+                "計算位置": [
+                    "加算",
+                    "乗算"
+                ],
+                "加算": [
+                    "未昇進無凸",
+                    "未昇進凸有",
+                    "昇進１無凸",
+                    "昇進１凸有",
+                    "昇進２無凸",
+                    "昇進２凸有"
+                ],
+                "乗算": [
+                    "未昇進無凸",
+                    "未昇進凸有",
+                    "昇進１無凸",
+                    "昇進１凸有",
+                    "昇進２無凸",
+                    "昇進２凸有"
+                ]
+            },
             "スキル1": {
                 "ダメージ": [
                     "物理",
@@ -251,13 +1243,16 @@
         }
     },
     "Siege": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -286,13 +1281,16 @@
         }
     },
     "Bagpipes": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -323,7 +1321,9 @@
         }
     },
     "Saga": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -353,7 +1353,9 @@
         }
     },
     "Saileach": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -367,7 +1369,7 @@
         },
         "skill2": {
             "type": [
-                "physical"
+                "heal"
             ],
             "physical": [
                 "multiply"
@@ -383,7 +1385,9 @@
         }
     },
     "Flametail": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -413,9 +1417,11 @@
         }
     },
     "Zimmer": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
-        "camp": null,
+        "camp": "ursus",
         "summon": null,
         "characteristic": null,
         "makings": null,
@@ -435,7 +1441,9 @@
         }
     },
     "Texas": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -457,14 +1465,13 @@
         }
     },
     "Grani": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
-        "characteristic": {
-            "calculatePosition": null,
-            "null": []
-        },
+        "characteristic": null,
         "makings": null,
         "skill1": {
             "type": [
@@ -476,17 +1483,63 @@
             "type": [
                 "physical"
             ],
-            "physical": []
+            "physical": [
+                "addition"
+            ]
         }
     },
     "Reed": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
+        "position": "short",
+        "camp": null,
+        "summon": null,
+        "characteristic": {
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
+            "magic": [
+                "multiply"
+            ],
+            "multiply": []
+        },
+        "makings": null,
+        "skill1": {
+            "type": [
+                "physical"
+            ],
+            "physical": []
+        },
+        "skill2": {
+            "type": [
+                "physical",
+                "magic"
+            ],
+            "physical": [
+                "addition"
+            ],
+            "magic": [
+                "addition",
+                "multiply"
+            ]
+        }
+    },
+    "Chiave": {
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "addition"
+            ],
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -496,76 +1549,6 @@
                 "physical"
             ],
             "physical": []
-        },
-        "skill2": {
-            "type": [
-                "magic"
-            ],
-            "magic": [
-                "multiply",
-                "division"
-            ]
-        }
-    },
-    "Chiave": {
-        "normalAttack": "physical",
-        "position": "short",
-        "camp": null,
-        "summon": null,
-        "characteristic": null,
-        "makings": null,
-        "skill1": {
-            "type": [
-                "physical"
-            ],
-            "physical": []
-        },
-        "skill2": {
-            "type": [
-                "physical"
-            ],
-            "physical": []
-        }
-    },
-    "Elysium": {
-        "normalAttack": "physical",
-        "position": "short",
-        "camp": null,
-        "summon": null,
-        "characteristic": null,
-        "makings": null,
-        "skill1": {
-            "type": [
-                "physical"
-            ],
-            "physical": []
-        },
-        "skill2": {
-            "type": [
-                "physical"
-            ],
-            "physical": [
-                "addition"
-            ]
-        }
-    },
-    "Waildmaane": {
-        "normalAttack": "physical",
-        "position": "long",
-        "camp": null,
-        "summon": null,
-        "characteristic": {
-            "calculatePosition": "multiply",
-            "multiply": []
-        },
-        "makings": null,
-        "skill1": {
-            "type": [
-                "physical"
-            ],
-            "physical": [
-                "addition"
-            ]
         },
         "skill2": {
             "type": [
@@ -576,25 +1559,42 @@
             ]
         }
     },
-    "BlackKnight": {
-        "normalAttack": "physical",
+    "Elysium": {
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
-        "makings": {
-            "calculatePosition": [
-                "addition"
-            ],
-            "addition": []
-        },
+        "makings": null,
         "skill1": {
             "type": [
                 "physical"
             ],
-            "physical": [
-                "addition"
-            ]
+            "physical": []
+        },
+        "skill2": {
+            "type": [
+                "physical"
+            ],
+            "physical": []
+        }
+    },
+    "Waildmaane": {
+        "normalAttack": [
+            "physical"
+        ],
+        "position": "short",
+        "camp": null,
+        "summon": null,
+        "characteristic": null,
+        "makings": null,
+        "skill1": {
+            "type": [
+                "physical"
+            ],
+            "physical": []
         },
         "skill2": {
             "type": [
@@ -605,14 +1605,77 @@
             ]
         }
     },
+    "BlackKnight": {
+        "normalAttack": [
+            "physical"
+        ],
+        "position": "long",
+        "camp": null,
+        "summon": "possession",
+        "characteristic": {
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
+            "multiply": []
+        },
+        "makings": null,
+        "skill1": {
+            "type": [
+                "physical"
+            ],
+            "physical": []
+        },
+        "skill2": {
+            "type": [
+                "physical"
+            ],
+            "physical": []
+        },
+        "causative": {
+            "normalAttack": [
+                "physical"
+            ],
+            "position": "short",
+            "camp": null,
+            "summon": null,
+            "characteristic": null,
+            "makings": null,
+            "skill1": {
+                "type": [
+                    "physical"
+                ],
+                "physical": [
+                    "addition"
+                ]
+            },
+            "skill2": {
+                "type": [
+                    "magic"
+                ],
+                "physical": [
+                    "multiply"
+                ]
+            }
+        }
+    },
     "Vigna": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
-        "characteristic": null,
+        "characteristic": {
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
+            "multiply": []
+        },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -635,7 +1698,9 @@
         }
     },
     "Courier": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -655,13 +1720,15 @@
         }
     },
     "Scavenger": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -682,7 +1749,9 @@
         }
     },
     "Myrtle": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -696,20 +1765,23 @@
         },
         "skill2": {
             "type": [
-                "physical"
+                "heal"
             ],
-            "physical": [
+            "heal": [
                 "multiply"
             ]
         }
     },
     "BeanStalk": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
-        "summon": null,
+        "summon": "possession",
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": "multiply",
             "multiply": []
         },
         "makings": null,
@@ -724,16 +1796,41 @@
                 "physical"
             ],
             "physical": []
+        },
+        "causative": {
+            "normalAttack": [
+                "physical"
+            ],
+            "position": null,
+            "camp": null,
+            "summon": null,
+            "characteristic": null,
+            "makings": null,
+            "skill1": {
+                "type": [
+                    "physical"
+                ],
+                "physical": []
+            },
+            "skill2": {
+                "type": [
+                    "physical"
+                ],
+                "physical": []
+            }
         }
     },
     "Vanilla": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -748,7 +1845,9 @@
         }
     },
     "Fang": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -762,13 +1861,16 @@
         }
     },
     "Plume": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -783,30 +1885,32 @@
         }
     },
     "Yato": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
-        "makings": null,
-        "skill1": {
-            "type": [
-                "physical"
-            ],
-            "physical": []
-        }
+        "makings": null
     },
     "Silverash": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -835,16 +1939,22 @@
         }
     },
     "Skadi": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": "abyssal",
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -875,16 +1985,28 @@
         }
     },
     "Chen": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "increase",
+            "type": null,
+            "physical": [
+                "increase"
+            ],
+            "magic": [
+                "increase"
+            ],
             "increase": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "addition"
+            ],
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -899,9 +2021,13 @@
         },
         "skill2": {
             "type": [
-                "physical"
+                "physical",
+                "magic"
             ],
             "physical": [
+                "multiply"
+            ],
+            "magic": [
                 "multiply"
             ]
         },
@@ -915,7 +2041,9 @@
         }
     },
     "Hellagur": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -947,7 +2075,9 @@
         }
     },
     "Blaze": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -980,12 +2110,17 @@
         }
     },
     "Thorns": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -1002,25 +2137,29 @@
                 "physical"
             ],
             "physical": [
-                "addition",
-                "subtract"
+                "addition"
             ]
         },
         "skill3": {
             "type": [
                 "physical"
             ],
-            "physical": []
+            "physical": [
+                "addition"
+            ]
         }
     },
     "Surt": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "ignoredFixed"
             ],
             "ignoredFixed": []
@@ -1051,13 +2190,16 @@
         }
     },
     "Mountain": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -1088,16 +2230,22 @@
         }
     },
     "Pallas": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": "minos",
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -1128,18 +2276,31 @@
         }
     },
     "NearlTheRadiantKnight": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
+            "fixedDamage": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
-                "multiply",
+            "type": [
+                "fixedDamage"
+            ],
+            "physical": [
                 "vulnerable"
+            ],
+            "fixedDamage": [
+                "multiply"
             ],
             "multiply": [],
             "vulnerable": []
@@ -1162,25 +2323,35 @@
         },
         "skill3": {
             "type": [
-                "physical"
+                "physical",
+                "fixedDamage"
             ],
             "physical": [
+                "addition"
+            ],
+            "fixedDamage": [
                 "addition",
                 "multiply"
             ]
         }
     },
     "Irena": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "minimum",
+            "type": null,
+            "physical": [
+                "minimum"
+            ],
             "minimum": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "vulnerable"
             ],
             "vulnerable": []
@@ -1211,13 +2382,16 @@
         }
     },
     "GavialTheInvincible": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -1248,13 +2422,19 @@
         }
     },
     "Indra": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "addition"
+            ],
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -1278,13 +2458,16 @@
         }
     },
     "Savage": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -1307,7 +2490,9 @@
         }
     },
     "Specter": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": "abyssal",
         "summon": null,
@@ -1331,16 +2516,22 @@
         }
     },
     "Franka": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "ignoredPercentage"
             ],
             "ignoredPercentage": []
@@ -1363,12 +2554,17 @@
         }
     },
     "Lappland": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -1390,12 +2586,17 @@
         }
     },
     "Swire": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -1415,7 +2616,9 @@
         }
     },
     "Flamebringer": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -1439,7 +2642,9 @@
         }
     },
     "Astesia": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -1463,13 +2668,19 @@
         }
     },
     "Broca": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "addition"
+            ],
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -1492,25 +2703,37 @@
         }
     },
     "Bibeak": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
+            "magic": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "": [
                 "addition"
             ],
             "addition": []
         },
         "skill1": {
             "type": [
-                "physical"
+                "physical",
+                "magic"
             ],
             "physical": [
+                "multiply"
+            ],
+            "magic": [
                 "multiply"
             ]
         },
@@ -1524,12 +2747,20 @@
         }
     },
     "Ayerscarpe": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
+            "magic": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -1551,9 +2782,11 @@
         }
     },
     "Sideroca": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "short",
-        "camp": null,
+        "camp": "minos",
         "summon": null,
         "characteristic": null,
         "makings": null,
@@ -1573,13 +2806,16 @@
         }
     },
     "Flont": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "increase"
             ],
             "increase": []
@@ -1602,12 +2838,17 @@
         }
     },
     "Whislash": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -1627,13 +2868,19 @@
         }
     },
     "vanguardAmiya": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
+                "addition"
+            ],
+            "fixedDamage": [
                 "addition"
             ],
             "addition": []
@@ -1648,30 +2895,46 @@
         },
         "skill2": {
             "type": [
-                "magic"
+                "magic",
+                "fixedDamage"
             ],
             "magic": [
+                "multiply"
+            ],
+            "fixedDamage": [
                 "addition",
                 "multiply"
             ]
         }
     },
     "Tachanka": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "increase"
+            ],
+            "magic": [
+                "increase"
+            ],
             "multiply": []
         },
         "makings": null,
         "skill1": {
             "type": [
-                "physical"
+                "physical",
+                "magic"
             ],
             "physical": [
                 "ignoredFixed"
+            ],
+            "magic": [
+                "multiply"
             ]
         },
         "skill2": {
@@ -1684,7 +2947,9 @@
         }
     },
     "Akafuyu": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -1708,16 +2973,24 @@
         }
     },
     "Tequila": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "addition",
+            "type": null,
+            "physical": [
+                "addition"
+            ],
             "addition": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": [
+                "magic"
+            ],
+            "magic": [
                 "multiply"
             ],
             "multiply": []
@@ -1740,7 +3013,9 @@
         }
     },
     "Lapuluma": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -1764,7 +3039,9 @@
         }
     },
     "Estelle": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -1788,12 +3065,17 @@
         }
     },
     "Doberman": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -1815,17 +3097,20 @@
         }
     },
     "Frostleaf": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
-        "characteristic": null,
-        "makings": {
-            "calculatePosition": [
+        "characteristic": {
+            "type": null,
+            "physical": [
                 "multiply"
             ],
             "multiply": []
         },
+        "makings": null,
         "skill1": {
             "type": [
                 "physical"
@@ -1842,7 +3127,9 @@
         }
     },
     "Matoimaru": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -1864,7 +3151,9 @@
         }
     },
     "Mousse": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -1888,13 +3177,16 @@
         }
     },
     "Beehunter": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -1913,7 +3205,9 @@
         }
     },
     "Utage": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -1935,12 +3229,17 @@
         }
     },
     "Cutter": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "increase",
+            "type": null,
+            "physical": [
+                "ignoredFixed"
+            ],
             "increase": []
         },
         "makings": null,
@@ -1962,16 +3261,25 @@
         }
     },
     "Arene": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "addition"
+            ],
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -1994,12 +3302,20 @@
         }
     },
     "Conviction": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
-        "camp": null,
+        "camp": "minos",
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
+            "magic": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -2021,7 +3337,9 @@
         }
     },
     "Jackie": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2044,14 +3362,17 @@
             ]
         }
     },
-    "Melantha": {
-        "normalAttack": "physical",
+    "Popukar": {
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -2066,16 +3387,28 @@
         }
     },
     "Midnight": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
+            "magic": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
+            "magic": [
                 "multiply"
             ],
             "multiply": []
@@ -2089,14 +3422,17 @@
             ]
         }
     },
-    "Popukar": {
-        "normalAttack": "physical",
+    "Melantha": {
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -2111,13 +3447,15 @@
         }
     },
     "Castle3": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "": [
                 "addition"
             ],
             "addition": []
@@ -2130,47 +3468,58 @@
         }
     },
     "Saria": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "addition"
+            ],
+            "heal": [
                 "addition"
             ],
             "addition": []
         },
         "skill1": {
             "type": [
-                "physical"
+                "heal"
             ],
-            "physical": [
+            "heal": [
                 "multiply"
             ]
         },
         "skill2": {
             "type": [
-                "physical"
+                "heal"
             ],
-            "physical": [
+            "heal": [
                 "multiply"
             ]
         },
         "skill3": {
             "type": [
-                "physical"
+                "heal"
             ],
-            "physical": [
+            "heal": [
                 "multiply"
             ]
         }
     },
     "Hoshiguma": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2202,7 +3551,9 @@
         }
     },
     "Nian": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2234,13 +3585,16 @@
         }
     },
     "Eunectes": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -2271,42 +3625,68 @@
         }
     },
     "Blemishine": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
+            "magic": [
                 "multiply"
             ],
             "multiply": []
         },
         "skill1": {
             "type": [
-                "physical"
+                "physical",
+                "heal"
             ],
             "physical": [
+                "multiply"
+            ],
+            "heal": [
                 "multiply"
             ]
         },
         "skill2": {
             "type": [
-                "physical"
+                "physical",
+                "heal"
             ],
             "physical": [
                 "addition"
+            ],
+            "heal": [
+                "multiply"
             ]
         },
         "skill3": {
             "type": [
-                "physical"
+                "physical",
+                "magic",
+                "heal"
             ],
-            "physical": []
+            "physical": [
+                "addition"
+            ],
+            "magic": [
+                "multiply"
+            ],
+            "heal": [
+                "multiply"
+            ]
         }
     },
     "Mudrock": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2336,13 +3716,19 @@
         }
     },
     "Horn": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "addition"
+            ],
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -2357,9 +3743,15 @@
         },
         "skill2": {
             "type": [
-                "physical"
+                "physical",
+                "magic"
             ],
-            "physical": []
+            "physical": [
+                "multiply"
+            ],
+            "magic": [
+                "multiply"
+            ]
         },
         "skill3": {
             "type": [
@@ -2371,9 +3763,11 @@
         }
     },
     "Vulcan": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
-        "camp": null,
+        "camp": "minos",
         "summon": null,
         "characteristic": null,
         "makings": null,
@@ -2393,7 +3787,9 @@
         }
     },
     "Croissant": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2415,31 +3811,47 @@
         }
     },
     "Nearl": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
-        "characteristic": null,
-        "makings": null,
+        "characteristic": {
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
+            "multiply": []
+        },
+        "makings": {
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
+            "multiply": []
+        },
         "skill1": {
             "type": [
-                "physical"
+                "heal"
             ],
-            "physical": [
+            "heal": [
                 "multiply"
             ]
         },
         "skill2": {
             "type": [
-                "physical"
+                "heal"
             ],
-            "physical": [
+            "heal": [
                 "addition"
             ]
         }
     },
     "Liskarm": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2461,7 +3873,9 @@
         }
     },
     "Bison": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2481,31 +3895,41 @@
         }
     },
     "Hung": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
-        "makings": null,
+        "makings": {
+            "type": null,
+            "heal": [
+                "increase"
+            ],
+            "increase": []
+        },
         "skill1": {
             "type": [
-                "physical"
+                "heal"
             ],
-            "physical": [
+            "heal": [
                 "multiply"
             ]
         },
         "skill2": {
             "type": [
-                "physical"
+                "heal"
             ],
-            "physical": [
+            "heal": [
                 "addition"
             ]
         }
     },
     "Asbestos": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2527,13 +3951,16 @@
         }
     },
     "Blitz": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -2554,7 +3981,9 @@
         }
     },
     "Heavyrain": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2574,13 +4003,16 @@
         }
     },
     "Ashlock": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -2603,7 +4035,9 @@
         }
     },
     "Aurora": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2626,13 +4060,19 @@
         }
     },
     "Shalem": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "addition"
+            ],
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -2653,13 +4093,16 @@
         }
     },
     "Czerny": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": "magic",
+            "magic": [
                 "multiply"
             ],
             "multiply": []
@@ -2683,7 +4126,9 @@
         }
     },
     "Cuora": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2703,20 +4148,26 @@
         }
     },
     "gumm": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
-        "camp": null,
+        "camp": "ursus",
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
+            "heal": [
                 "multiply"
             ],
             "multiply": []
         },
         "skill1": {
             "type": [
-                "physical"
+                "heal"
             ],
             "physical": [
                 "multiply"
@@ -2724,7 +4175,7 @@
         },
         "skill2": {
             "type": [
-                "physical"
+                "heal"
             ],
             "physical": [
                 "addition"
@@ -2732,7 +4183,9 @@
         }
     },
     "Matterhorn": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2752,13 +4205,19 @@
         }
     },
     "Durnar": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "addition"
+            ],
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -2781,7 +4240,9 @@
         }
     },
     "Bubble": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2801,7 +4262,9 @@
         }
     },
     "Cardigan": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2815,7 +4278,9 @@
         }
     },
     "Beagle": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2829,7 +4294,9 @@
         }
     },
     "Spot": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2837,15 +4304,17 @@
         "makings": null,
         "skill1": {
             "type": [
-                "physical"
+                "heal"
             ],
-            "physical": [
+            "heal": [
                 "addition"
             ]
         }
     },
     "NoirCorne": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -2859,16 +4328,22 @@
         }
     },
     "exusiai": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -2899,26 +4374,30 @@
         }
     },
     "schwarz": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "multiply",
+                "division",
                 "addition"
             ],
             "multiply": [],
-            "addition": []
+            "addition": [],
+            "division": []
         },
         "skill1": {
             "type": [
                 "physical"
             ],
             "physical": [
-                "multiply",
-                "division"
+                "multiply"
             ]
         },
         "skill2": {
@@ -2926,8 +4405,7 @@
                 "physical"
             ],
             "physical": [
-                "addition",
-                "division"
+                "addition"
             ]
         },
         "skill3": {
@@ -2935,19 +4413,21 @@
                 "physical"
             ],
             "physical": [
-                "addition",
-                "division"
+                "addition"
             ]
         }
     },
     "poca": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
-        "camp": "urusus",
+        "camp": "ursus",
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "ignoredPercentage",
                 "addition"
             ],
@@ -2980,16 +4460,22 @@
         }
     },
     "w": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "increase"
             ],
             "increase": []
@@ -3020,17 +4506,26 @@
         }
     },
     "rosmontis": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "ignoredFixed",
+                "addition"
+            ],
+            "magic": [
                 "addition"
             ],
             "ignoredFixed": [],
@@ -3038,8 +4533,10 @@
         },
         "skill1": {
             "type": [
+                "physical",
                 "magic"
             ],
+            "physical": [],
             "magic": [
                 "multiply"
             ]
@@ -3063,7 +4560,9 @@
         }
     },
     "archetto": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -3095,7 +4594,9 @@
         }
     },
     "Ash": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -3127,12 +4628,17 @@
         }
     },
     "ChenTheHolungday": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -3164,16 +4670,22 @@
         }
     },
     "Fartooth": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "increase",
+            "type": null,
+            "physical": [
+                "increase"
+            ],
             "increase": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -3198,21 +4710,27 @@
             ],
             "physical": [
                 "addition",
-                "multiply"
+                "increase"
             ]
         }
     },
     "Fiammetta": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "ignoredFixed",
+            "type": null,
+            "physical": [
+                "ignoredFixed"
+            ],
             "ignoredFixed": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -3243,12 +4761,17 @@
         }
     },
     "pazeonka": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
-        "summon": null,
+        "summon": "possession",
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -3276,10 +4799,53 @@
             "physical": [
                 "multiply"
             ]
+        },
+        "causative": {
+            "normalAttack": [
+                "physical"
+            ],
+            "position": null,
+            "camp": null,
+            "summon": null,
+            "characteristic": null,
+            "makings": {
+                "type": null,
+                "physical": [
+                    "division"
+                ],
+                "division": []
+            },
+            "skill1": {
+                "type": [
+                    "physical"
+                ],
+                "physical": [
+                    "addition",
+                    "multiply"
+                ]
+            },
+            "skill2": {
+                "type": [
+                    "physical"
+                ],
+                "physical": [
+                    "multiply"
+                ]
+            },
+            "skill3": {
+                "type": [
+                    "physical"
+                ],
+                "physical": [
+                    "multiply"
+                ]
+            }
         }
     },
     "BluePoison": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -3303,13 +4869,16 @@
         }
     },
     "Firewatch": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -3332,16 +4901,22 @@
         }
     },
     "Platinum": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -3364,13 +4939,16 @@
         }
     },
     "Provence": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -3393,16 +4971,22 @@
         }
     },
     "Meteorite": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "ignoredFixed",
+            "type": null,
+            "physical": [
+                "ignoredFixed"
+            ],
             "ignoredFixed": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -3426,16 +5010,22 @@
         }
     },
     "Executor": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "ignoredFixed"
             ],
             "ignoredFixed": []
@@ -3456,13 +5046,16 @@
         }
     },
     "GreyThroat": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -3485,16 +5078,22 @@
         }
     },
     "Sesa": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "increase"
             ],
             "increase": []
@@ -3517,12 +5116,17 @@
         }
     },
     "Andreana": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
-        "camp": null,
+        "camp": "abyssal",
         "summon": null,
         "characteristic": {
-            "calculatePosition": "increase",
+            "type": null,
+            "physical": [
+                "increase"
+            ],
             "increase": []
         },
         "makings": null,
@@ -3544,7 +5148,9 @@
         }
     },
     "April": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -3568,16 +5174,24 @@
         }
     },
     "Aosta": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": [
+                "magic"
+            ],
+            "magic": [
                 "multiply"
             ],
             "multiply": []
@@ -3588,6 +5202,9 @@
             ],
             "physical": [
                 "addition"
+            ],
+            "magic": [
+                "addition"
             ]
         },
         "skill2": {
@@ -3595,18 +5212,24 @@
                 "physical"
             ],
             "physical": [
+                "addition"
+            ],
+            "magic": [
+                "addition",
                 "multiply"
             ]
         }
     },
     "Toddifons": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -3630,16 +5253,22 @@
         }
     },
     "KroosTheKeenGlint": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -3660,13 +5289,15 @@
         }
     },
     "Erato": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
-        "camp": null,
+        "camp": "minos",
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "physical": [
                 "ignoredPercentage"
             ],
             "ignoredPercentage": []
@@ -3689,12 +5320,17 @@
         }
     },
     "GreyyTheLightningbearer": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -3716,13 +5352,16 @@
         }
     },
     "Jessica": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -3745,16 +5384,21 @@
         }
     },
     "ShiraYuki": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "ignoredFixed",
+            "type": null,
+            "physical": [
+                "ignoredFixed"
+            ],
             "ignoredFixed": []
         },
         "makings": {
-            "calculatePosition": [
+            "": [
                 "addition"
             ],
             "addition": []
@@ -3775,16 +5419,21 @@
         }
     },
     "Meteor": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -3809,12 +5458,17 @@
         }
     },
     "Vermeil": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -3836,16 +5490,21 @@
         }
     },
     "May": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -3868,12 +5527,17 @@
         }
     },
     "Ambriel": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -3893,13 +5557,16 @@
         }
     },
     "Aciddrop": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "minimum"
             ],
             "minimum": []
@@ -3920,12 +5587,17 @@
         }
     },
     "Pinecone": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -3948,7 +5620,9 @@
         }
     },
     "Adnachiel": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -3964,13 +5638,15 @@
         }
     },
     "Kroos": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -3985,7 +5661,9 @@
         }
     },
     "Catapult": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -3999,13 +5677,15 @@
         }
     },
     "Rangers": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -4018,13 +5698,15 @@
         }
     },
     "JusticeKnight": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "physical": [
                 "vulnerable"
             ],
             "vulnerable": []
@@ -4037,13 +5719,16 @@
         }
     },
     "Ifrit": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "ignoredPercentage"
             ],
             "ignoredPercentage": []
@@ -4075,13 +5760,16 @@
         }
     },
     "Eyjafialla": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -4113,7 +5801,9 @@
         }
     },
     "Mostima": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -4145,13 +5835,19 @@
         }
     },
     "Ceobe": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
+                "addition"
+            ],
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -4180,13 +5876,16 @@
         }
     },
     "Dusk": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
-        "summon": null,
+        "summon": "possession",
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -4215,19 +5914,53 @@
             "magic": [
                 "addition"
             ]
+        },
+        "causative": {
+            "normalAttack": [
+                "magic"
+            ],
+            "position": null,
+            "camp": null,
+            "summon": null,
+            "characteristic": null,
+            "makings": null,
+            "skill1": {
+                "type": [
+                    "magic"
+                ],
+                "magic": []
+            },
+            "skill2": {
+                "type": [
+                    "magic"
+                ],
+                "magic": []
+            },
+            "skill3": {
+                "type": [
+                    "magic"
+                ],
+                "magic": []
+            }
         }
     },
     "Passenger": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "magic": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "increase",
                 "addition"
             ],
@@ -4260,7 +5993,9 @@
         }
     },
     "Carnelian": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -4293,16 +6028,22 @@
         }
     },
     "Goldenglow": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "magic": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "multiply",
                 "ignoredFixed"
             ],
@@ -4335,13 +6076,16 @@
         }
     },
     "Ebenholz": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "multiply"
             ],
             "multiply": []
@@ -4372,7 +6116,9 @@
         }
     },
     "Amiya": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -4394,13 +6140,16 @@
         }
     },
     "Skyfire": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "increase"
             ],
             "increase": []
@@ -4423,13 +6172,16 @@
         }
     },
     "Nightmare": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -4448,16 +6200,22 @@
         }
     },
     "Leizi": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "magic": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "multiply"
             ],
             "multiply": []
@@ -4480,13 +6238,16 @@
         }
     },
     "LeonHardt": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -4510,13 +6271,16 @@
         }
     },
     "Absinthe": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "increase"
             ],
             "increase": []
@@ -4539,7 +6303,9 @@
         }
     },
     "Beeswax": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -4563,13 +6329,16 @@
         }
     },
     "Tomimi": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -4590,7 +6359,9 @@
         }
     },
     "Mint": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -4614,13 +6385,16 @@
         }
     },
     "Iris": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "multiply"
             ],
             "multiply": []
@@ -4643,7 +6417,9 @@
         }
     },
     "LavaThePurgatory": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -4667,7 +6443,9 @@
         }
     },
     "Corroserum": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -4691,16 +6469,22 @@
         }
     },
     "Kjera": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "magic": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -4723,16 +6507,22 @@
         }
     },
     "Rockrock": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "magic": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -4753,16 +6543,22 @@
         }
     },
     "Minimalist": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "magic": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "multiply"
             ],
             "multiply": []
@@ -4785,12 +6581,17 @@
         }
     },
     "Astgenne": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "magic": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -4812,19 +6613,26 @@
         }
     },
     "Haze": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
-        "makings": null,
+        "makings": {
+            "type": null,
+            "magic": [
+                "division"
+            ],
+            "addition": []
+        },
         "skill1": {
             "type": [
                 "magic"
             ],
             "magic": [
-                "addition",
-                "division"
+                "addition"
             ]
         },
         "skill2": {
@@ -4832,19 +6640,21 @@
                 "magic"
             ],
             "magic": [
-                "addition",
-                "division"
+                "addition"
             ]
         }
     },
     "Gitano": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -4865,7 +6675,9 @@
         }
     },
     "Greyy": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -4885,12 +6697,17 @@
         }
     },
     "Click": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "magic": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -4912,7 +6729,9 @@
         }
     },
     "Indigo": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -4936,16 +6755,22 @@
         }
     },
     "Pudding": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "magic": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -4966,13 +6791,16 @@
         }
     },
     "Steward": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -4987,7 +6815,9 @@
         }
     },
     "Lava": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -5001,7 +6831,9 @@
         }
     },
     "Durin": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -5015,7 +6847,9 @@
         }
     },
     "12F": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -5029,227 +6863,9 @@
         }
     },
     "Shining": {
-        "normalAttack": "heal",
-        "position": "short",
-        "camp": null,
-        "summon": null,
-        "characteristic": null,
-        "makings": null,
-        "skill1": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill2": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill3": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        }
-    },
-    "Nightingale": {
-        "normalAttack": "heal",
-        "position": "short",
-        "camp": null,
-        "summon": null,
-        "characteristic": null,
-        "makings": null,
-        "skill1": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill2": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill3": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        }
-    },
-    "Kaltsit": {
-        "normalAttack": "heal",
-        "position": "long",
-        "camp": null,
-        "summon": null,
-        "characteristic": null,
-        "makings": null,
-        "skill1": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill2": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill3": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        }
-    },
-    "Lumen": {
-        "normalAttack": "heal",
-        "position": "short",
-        "camp": null,
-        "summon": null,
-        "characteristic": {
-            "calculatePosition": "multiply",
-            "multiply": []
-        },
-        "makings": {
-            "calculatePosition": [
-                "multiply"
-            ],
-            "multiply": []
-        },
-        "skill1": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill2": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill3": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        }
-    },
-    "Silence": {
-        "normalAttack": "heal",
-        "position": "short",
-        "camp": null,
-        "summon": null,
-        "characteristic": null,
-        "makings": null,
-        "skill1": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill2": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        }
-    },
-    "Ptilopsis": {
-        "normalAttack": "heal",
-        "position": "short",
-        "camp": null,
-        "summon": null,
-        "characteristic": null,
-        "makings": null,
-        "skill1": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill2": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        }
-    },
-    "Warfarin": {
-        "normalAttack": "heal",
-        "position": "short",
-        "camp": null,
-        "summon": null,
-        "characteristic": null,
-        "makings": null,
-        "skill1": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill2": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        }
-    },
-    "Ceylon": {
-        "normalAttack": "heal",
-        "position": "short",
-        "camp": null,
-        "summon": null,
-        "characteristic": {
-            "calculatePosition": "multiply",
-            "multiply": []
-        },
-        "makings": {
-            "calculatePosition": [
-                "addition"
-            ],
-            "addition": []
-        },
-        "skill1": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill2": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        }
-    },
-    "Breeze": {
-        "normalAttack": "heal",
-        "position": "short",
-        "camp": null,
-        "summon": null,
-        "characteristic": null,
-        "makings": null,
-        "skill1": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill2": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        }
-    },
-    "Folinic": {
-        "normalAttack": "heal",
+        "normalAttack": [
+            "heal"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -5265,51 +6881,66 @@
         },
         "skill2": {
             "type": [
-                "magic"
+                "heal"
             ],
-            "magic": [
-                "multiply"
+            "heal": []
+        },
+        "skill3": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "addition"
             ]
         }
     },
-    "Whisperain": {
-        "normalAttack": "heal",
-        "position": "short",
-        "camp": null,
-        "summon": null,
-        "characteristic": {
-            "calculatePosition": "multiply",
-            "multiply": []
-        },
-        "makings": {
-            "calculatePosition": [
-                "multiply"
-            ],
-            "multiply": []
-        },
-        "skill1": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill2": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        }
-    },
-    "Tuye": {
-        "normalAttack": "heal",
-        "position": "short",
+    "Nightingale": {
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": "multiply",
-            "multiply": []
+            "type": null,
+            "heal": [
+                "increase"
+            ],
+            "increase": []
         },
+        "skill1": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "addition"
+            ]
+        },
+        "skill2": {
+            "type": [
+                "heal"
+            ],
+            "heal": []
+        },
+        "skill3": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "addition"
+            ]
+        }
+    },
+    "Kaltsit": {
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
+        "camp": null,
+        "summon": "possession",
+        "characteristic": null,
+        "makings": null,
         "skill1": {
             "type": [
                 "heal"
@@ -5321,19 +6952,182 @@
                 "heal"
             ],
             "heal": []
+        },
+        "skill3": {
+            "type": [
+                "heal"
+            ],
+            "heal": []
+        },
+        "causative": {
+            "normalAttack": [
+                "physical"
+            ],
+            "position": null,
+            "camp": null,
+            "summon": null,
+            "characteristic": null,
+            "makings": null,
+            "skill1": {
+                "type": [
+                    "physical"
+                ],
+                "physical": []
+            },
+            "skill2": {
+                "type": [
+                    "physical"
+                ],
+                "physical": [
+                    "addition"
+                ]
+            },
+            "skill3": {
+                "type": [
+                    "fixedDamage"
+                ],
+                "fixedDamage": [
+                    "addition"
+                ]
+            }
         }
     },
-    "Mulberry": {
-        "normalAttack": "heal",
-        "position": "short",
+    "Lumen": {
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
+            "multiply": []
+        },
+        "skill1": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "multiply"
+            ]
+        },
+        "skill2": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "multiply"
+            ]
+        },
+        "skill3": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "addition",
+                "multiply"
+            ]
+        }
+    },
+    "Silence": {
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
+        "camp": null,
+        "summon": null,
+        "characteristic": null,
+        "makings": null,
+        "skill1": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "addition"
+            ]
+        },
+        "skill2": {
+            "type": [
+                "heal"
+            ],
+            "heal": []
+        }
+    },
+    "Ptilopsis": {
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
+        "camp": null,
+        "summon": null,
+        "characteristic": null,
+        "makings": null,
+        "skill1": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "addition"
+            ]
+        },
+        "skill2": {
+            "type": [
+                "heal"
+            ],
+            "heal": []
+        }
+    },
+    "Warfarin": {
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
+        "camp": null,
+        "summon": null,
+        "characteristic": null,
+        "makings": null,
+        "skill1": {
+            "type": [
+                "heal"
+            ],
+            "heal": []
+        },
+        "skill2": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "addition"
+            ]
+        }
+    },
+    "Ceylon": {
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
+        "camp": null,
+        "summon": null,
+        "characteristic": {
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
+            "multiply": []
+        },
+        "makings": {
+            "type": null,
+            "heal": [
                 "addition"
             ],
             "addition": []
@@ -5342,7 +7136,173 @@
             "type": [
                 "heal"
             ],
+            "heal": [
+                "multiply"
+            ]
+        },
+        "skill2": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "addition"
+            ]
+        }
+    },
+    "Breeze": {
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
+        "camp": null,
+        "summon": null,
+        "characteristic": null,
+        "makings": null,
+        "skill1": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "addition"
+            ]
+        },
+        "skill2": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "addition",
+                "multiply"
+            ]
+        }
+    },
+    "Folinic": {
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
+        "camp": null,
+        "summon": null,
+        "characteristic": null,
+        "makings": null,
+        "skill1": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "addition"
+            ]
+        },
+        "skill2": {
+            "type": [
+                "magic",
+                "heal"
+            ],
+            "magic": [
+                "multiply"
+            ],
+            "heal": [
+                "multiply"
+            ]
+        }
+    },
+    "Whisperain": {
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
+        "camp": null,
+        "summon": null,
+        "characteristic": {
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
+            "multiply": []
+        },
+        "makings": {
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
+            "multiply": []
+        },
+        "skill1": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "multiply"
+            ]
+        },
+        "skill2": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "multiply"
+            ]
+        }
+    },
+    "Tuye": {
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
+        "camp": null,
+        "summon": null,
+        "characteristic": null,
+        "makings": {
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
+            "multiply": []
+        },
+        "skill1": {
+            "type": [
+                "heal"
+            ],
             "heal": []
+        },
+        "skill2": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "addition",
+                "multiply"
+            ]
+        }
+    },
+    "Mulberry": {
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
+        "camp": null,
+        "summon": null,
+        "characteristic": {
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
+            "multiply": []
+        },
+        "makings": {
+            "type": null,
+            "heal": [
+                "addition"
+            ],
+            "addition": []
+        },
+        "skill1": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "multiply"
+            ]
         },
         "skill2": {
             "type": [
@@ -5352,12 +7312,17 @@
         }
     },
     "Honeyberry": {
-        "normalAttack": "heal",
-        "position": "short",
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -5371,17 +7336,22 @@
             "type": [
                 "heal"
             ],
-            "heal": []
+            "heal": [
+                "addition"
+            ]
         }
     },
     "HibiscusThePurifier": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "vulnerableMagic"
             ],
             "vulnerableMagic": []
@@ -5404,13 +7374,16 @@
         }
     },
     "Gavial": {
-        "normalAttack": "heal",
-        "position": "short",
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "heal": [
                 "addition"
             ],
             "addition": []
@@ -5419,23 +7392,30 @@
             "type": [
                 "heal"
             ],
-            "heal": []
+            "heal": [
+                "multiply"
+            ]
         },
         "skill2": {
             "type": [
                 "heal"
             ],
-            "heal": []
+            "heal": [
+                "multiply"
+            ]
         }
     },
     "Perfumer": {
-        "normalAttack": "heal",
-        "position": "short",
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "heal": [
                 "multiply"
             ],
             "multiply": []
@@ -5444,134 +7424,192 @@
             "type": [
                 "heal"
             ],
-            "heal": []
+            "heal": [
+                "addition"
+            ]
         },
         "skill2": {
             "type": [
                 "heal"
             ],
-            "heal": []
+            "heal": [
+                "addition"
+            ]
         }
     },
     "Myrrh": {
-        "normalAttack": "heal",
-        "position": "short",
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
             "multiply": []
         },
         "skill1": {
             "type": [
                 "heal"
             ],
-            "heal": []
+            "heal": [
+                "multiply"
+            ]
         },
         "skill2": {
             "type": [
                 "heal"
             ],
-            "heal": []
+            "heal": [
+                "addition"
+            ]
         }
     },
     "Sussurro": {
-        "normalAttack": "heal",
-        "position": "short",
-        "camp": null,
-        "summon": null,
-        "characteristic": null,
-        "makings": null,
-        "skill1": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill2": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        }
-    },
-    "Purestream": {
-        "normalAttack": "heal",
-        "position": "short",
-        "camp": null,
-        "summon": null,
-        "characteristic": {
-            "calculatePosition": "multiply",
-            "multiply": []
-        },
-        "makings": null,
-        "skill1": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill2": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        }
-    },
-    "Chestnut": {
-        "normalAttack": "heal",
-        "position": "short",
-        "camp": null,
-        "summon": null,
-        "characteristic": {
-            "calculatePosition": "multiply",
-            "multiply": []
-        },
-        "makings": null,
-        "skill1": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        },
-        "skill2": {
-            "type": [
-                "heal"
-            ],
-            "heal": []
-        }
-    },
-    "Hibiscus": {
-        "normalAttack": "heal",
-        "position": "short",
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "heal": [
+                "increase"
+            ],
+            "increase": []
+        },
+        "skill1": {
+            "type": [
                 "heal"
             ],
             "heal": [
                 "addition"
             ]
         },
-        "skill1": {
+        "skill2": {
             "type": [
                 "heal"
             ],
             "heal": [
                 "addition"
+            ]
+        }
+    },
+    "Purestream": {
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
+        "camp": null,
+        "summon": null,
+        "characteristic": {
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
+            "multiply": []
+        },
+        "makings": {
+            "type": null,
+            "heal": [
+                "increase"
+            ],
+            "increase": []
+        },
+        "skill1": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "multiply"
+            ]
+        },
+        "skill2": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "multiply"
+            ]
+        }
+    },
+    "Chestnut": {
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
+        "camp": null,
+        "summon": null,
+        "characteristic": {
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
+            "multiply": []
+        },
+        "makings": {
+            "type": null,
+            "heal": [
+                "increase"
+            ],
+            "increase": []
+        },
+        "skill1": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "multiply"
+            ]
+        },
+        "skill2": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "multiply"
             ]
         }
     },
     "Ansel": {
-        "normalAttack": "heal",
-        "position": "short",
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": null,
+        "skill1": {
+            "type": [
+                "heal"
+            ],
+            "heal": [
+                "addition"
+            ]
+        }
+    },
+    "Hibiscus": {
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
+        "camp": null,
+        "summon": null,
+        "characteristic": null,
+        "makings": {
+            "type": null,
+            "heal": [
+                "addition"
+            ],
+            "addition": []
+        },
         "skill1": {
             "type": [
                 "heal"
@@ -5582,8 +7620,10 @@
         }
     },
     "Lancet2": {
-        "normalAttack": "heal",
-        "position": "short",
+        "normalAttack": [
+            "heal"
+        ],
+        "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
@@ -5598,7 +7638,9 @@
         }
     },
     "Angelina": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -5630,10 +7672,12 @@
         }
     },
     "Magallan": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
-        "summon": null,
+        "summon": "possession",
         "characteristic": null,
         "makings": null,
         "skill1": {
@@ -5650,24 +7694,57 @@
         },
         "skill3": {
             "type": [
-                "physical"
+                "magic"
             ],
-            "physical": [
-                "multiply"
+            "magic": [
+                "addition"
             ]
+        },
+        "causative": {
+            "normalAttack": [
+                "magic"
+            ],
+            "position": null,
+            "camp": null,
+            "summon": null,
+            "characteristic": null,
+            "makings": null,
+            "skill1": {
+                "type": []
+            },
+            "skill2": {
+                "type": [
+                    "magic"
+                ],
+                "magic": []
+            },
+            "skill3": {
+                "type": [
+                    "physical"
+                ],
+                "physical": [
+                    "addition"
+                ]
+            }
         }
     },
     "Suzuran": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "addition",
+            "type": null,
+            "magic": [
+                "addition"
+            ],
             "addition": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "vulnerable"
             ],
             "vulnerable": []
@@ -5690,21 +7767,30 @@
         },
         "skill3": {
             "type": [
-                "magic"
+                "heal"
             ],
-            "magic": [
+            "heal": [
                 "multiply"
             ]
         }
     },
     "SkadiTheCorruptingHeart": {
-        "normalAttack": "heal",
+        "normalAttack": [
+            "heal"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
-        "characteristic": null,
+        "characteristic": {
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
+            "multiply": []
+        },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "heal": [
                 "addition"
             ],
             "addition": []
@@ -5713,7 +7799,9 @@
             "type": [
                 "heal"
             ],
-            "heal": []
+            "heal": [
+                "multiply"
+            ]
         },
         "skill2": {
             "type": [
@@ -5733,13 +7821,16 @@
         }
     },
     "Gnosis": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "vulnerable"
             ],
             "vulnerable": []
@@ -5770,13 +7861,16 @@
         }
     },
     "Ling": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
-        "summon": null,
+        "summon": "possession",
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -5804,12 +7898,48 @@
             "magic": [
                 "addition"
             ]
+        },
+        "causative": {
+            "normalAttack": [
+                "magic"
+            ],
+            "position": "long",
+            "camp": null,
+            "summon": null,
+            "characteristic": null,
+            "makings": null,
+            "skill1": {
+                "type": [
+                    "magic"
+                ],
+                "magic": [
+                    "addition"
+                ]
+            },
+            "skill2": {
+                "type": [
+                    "magic"
+                ],
+                "magic": [
+                    "multiply"
+                ]
+            },
+            "skill3": {
+                "type": [
+                    "magic"
+                ],
+                "magic": [
+                    "addition"
+                ]
+            }
         }
     },
     "Eastina": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
-        "camp": null,
+        "camp": "ursus",
         "summon": null,
         "characteristic": null,
         "makings": null,
@@ -5829,7 +7959,9 @@
         }
     },
     "Sora": {
-        "normalAttack": "heal",
+        "normalAttack": [
+            "heal"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -5839,7 +7971,9 @@
             "type": [
                 "heal"
             ],
-            "heal": []
+            "heal": [
+                "multiply"
+            ]
         },
         "skill2": {
             "type": [
@@ -5849,13 +7983,16 @@
         }
     },
     "Pramanix": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "vulnerable"
             ],
             "vulnerable": []
@@ -5876,35 +8013,62 @@
         }
     },
     "Mayer": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
-        "summon": null,
+        "summon": "possession",
         "characteristic": null,
         "makings": null,
         "skill1": {
             "type": [
-                "physical"
+                "magic"
             ],
-            "physical": []
+            "magic": []
         },
         "skill2": {
             "type": [
                 "magic"
             ],
-            "magic": [
-                "multiply"
-            ]
+            "magic": []
+        },
+        "causative": {
+            "normalAttack": [
+                "physical"
+            ],
+            "position": null,
+            "camp": null,
+            "summon": null,
+            "characteristic": null,
+            "makings": null,
+            "skill1": {
+                "type": [
+                    "physical"
+                ],
+                "physical": []
+            },
+            "skill2": {
+                "type": [
+                    "magic"
+                ],
+                "magic": [
+                    "multiply"
+                ]
+            }
         }
     },
     "Glaucus": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -5927,12 +8091,17 @@
         }
     },
     "Tsukinogi": {
-        "normalAttack": "heal",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -5952,13 +8121,16 @@
         }
     },
     "Shamare": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
                 "vulnerable"
             ],
             "vulnerable": []
@@ -5979,36 +8151,65 @@
         }
     },
     "Scene": {
-        "normalAttack": "physical",
-        "position": "short",
+        "normalAttack": [
+            "magic"
+        ],
+        "position": "long",
         "camp": null,
-        "summon": null,
+        "summon": "possession",
         "characteristic": null,
         "makings": null,
         "skill1": {
             "type": [
-                "physical"
+                "magic"
             ],
-            "physical": [
-                "addition"
-            ]
+            "magic": []
         },
         "skill2": {
             "type": [
+                "magic"
+            ],
+            "physical": []
+        },
+        "causative": {
+            "normalAttack": [
                 "physical"
             ],
-            "physical": [
-                "multiply"
-            ]
+            "position": null,
+            "camp": null,
+            "summon": null,
+            "characteristic": null,
+            "makings": null,
+            "skill1": {
+                "type": [
+                    "physical"
+                ],
+                "physical": [
+                    "addition"
+                ]
+            },
+            "skill2": {
+                "type": [
+                    "physical"
+                ],
+                "physical": [
+                    "addition"
+                ]
+            }
         }
     },
     "NinecoloredDer": {
-        "normalAttack": "heal",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -6028,12 +8229,17 @@
         }
     },
     "Quercus": {
-        "normalAttack": "heal",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "multiply",
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -6053,13 +8259,22 @@
         }
     },
     "Heidi": {
-        "normalAttack": "heal",
+        "normalAttack": [
+            "heal"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
-        "characteristic": null,
+        "characteristic": {
+            "type": null,
+            "heal": [
+                "multiply"
+            ],
+            "multiply": []
+        },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "heal": [
                 "addition"
             ],
             "addition": []
@@ -6074,17 +8289,22 @@
             "type": [
                 "heal"
             ],
-            "heal": []
+            "heal": [
+                "multiply"
+            ]
         }
     },
     "Windflit": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -6107,7 +8327,9 @@
         }
     },
     "Earthspirit": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -6129,33 +8351,65 @@
         }
     },
     "Deepcolor": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
-        "summon": null,
+        "summon": "possession",
         "characteristic": null,
         "makings": null,
         "skill1": {
             "type": [
-                "physical"
+                "magic"
             ],
             "physical": []
         },
         "skill2": {
             "type": [
-                "physical"
+                "magic"
             ],
             "physical": []
+        },
+        "causative": {
+            "normalAttack": [
+                "physical"
+            ],
+            "position": null,
+            "camp": null,
+            "summon": null,
+            "characteristic": null,
+            "makings": null,
+            "skill1": {
+                "type": [
+                    "physical"
+                ],
+                "physical": [
+                    "addition"
+                ]
+            },
+            "skill2": {
+                "type": [
+                    "physical"
+                ],
+                "physical": []
+            }
         }
     },
     "Podenco": {
-        "normalAttack": "heal",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "magic": [
+                "addition"
+            ],
+            "heal": [
                 "addition"
             ],
             "addition": []
@@ -6178,7 +8432,9 @@
         }
     },
     "Roberta": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -6200,7 +8456,9 @@
         }
     },
     "Orchid": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "magic"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -6216,13 +8474,16 @@
         }
     },
     "Aak": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -6249,7 +8510,9 @@
         }
     },
     "Phantom": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -6279,7 +8542,9 @@
         }
     },
     "Weedy": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -6311,13 +8576,19 @@
         }
     },
     "Gladiia": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": "abyssal",
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "multiply"
+            ],
+            "magic": [
                 "multiply"
             ],
             "multiply": []
@@ -6348,13 +8619,22 @@
         }
     },
     "Mizuki": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": [
+                "magic"
+            ],
+            "physical": [
+                "addition"
+            ],
+            "magic": [
+                "multiply",
                 "addition"
             ],
             "addition": []
@@ -6365,6 +8645,9 @@
             ],
             "physical": [
                 "multiply"
+            ],
+            "magic": [
+                "multiply"
             ]
         },
         "skill2": {
@@ -6373,6 +8656,9 @@
             ],
             "physical": [
                 "addition"
+            ],
+            "magic": [
+                "addition"
             ]
         },
         "skill3": {
@@ -6380,12 +8666,17 @@
                 "physical"
             ],
             "physical": [
-                "multiply"
+                "addition"
+            ],
+            "magic": [
+                "addition"
             ]
         }
     },
     "Lee": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -6416,13 +8707,29 @@
             ]
         }
     },
-    "SpectorTheUnchained": {
-        "normalAttack": "physical",
+    "SpecterTheUnchained": {
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": "abyssal",
         "summon": null,
-        "characteristic": null,
-        "makings": null,
+        "characteristic": {
+            "type": null,
+            "magic": [
+                "addition"
+            ],
+            "addition": []
+        },
+        "makings": {
+            "type": [
+                "magic"
+            ],
+            "magic": [
+                "multiply"
+            ],
+            "multiply": []
+        },
         "skill1": {
             "type": [
                 "physical"
@@ -6449,13 +8756,19 @@
         }
     },
     "Dorothy": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "addition"
+            ],
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -6487,7 +8800,9 @@
         }
     },
     "FEater": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -6509,13 +8824,22 @@
         }
     },
     "Cliffheart": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "addition"
+            ],
+            "magic": [
+                "addition"
+            ],
+            "fixedDamage": [
                 "addition"
             ],
             "addition": []
@@ -6538,13 +8862,16 @@
         }
     },
     "Manticore": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "addition"
             ],
             "addition": []
@@ -6565,16 +8892,22 @@
         }
     },
     "ProjektRed": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "addition",
+            "type": null,
+            "physical": [
+                "addition"
+            ],
             "addition": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "minimum"
             ],
             "minimum": []
@@ -6597,13 +8930,16 @@
         }
     },
     "WaaiFu": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -6626,7 +8962,9 @@
         }
     },
     "Snowsant": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -6650,16 +8988,28 @@
         }
     },
     "Kafka": {
-        "normalAttack": "magic",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": {
-            "calculatePosition": "addition",
+            "type": null,
+            "physical": [
+                "addition"
+            ],
+            "magic": [
+                "addition"
+            ],
             "addition": []
         },
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
+                "addition"
+            ],
+            "magic": [
                 "addition"
             ],
             "addition": []
@@ -6682,7 +9032,9 @@
         }
     },
     "Robin": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -6706,13 +9058,16 @@
         }
     },
     "MrNothing": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -6733,7 +9088,9 @@
         }
     },
     "Frost": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "long",
         "camp": null,
         "summon": null,
@@ -6757,7 +9114,9 @@
         }
     },
     "Kirara": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -6765,9 +9124,13 @@
         "makings": null,
         "skill1": {
             "type": [
-                "physical"
+                "physical",
+                "magic"
             ],
-            "physical": []
+            "physical": [],
+            "magic": [
+                "multiply"
+            ]
         },
         "skill2": {
             "type": [
@@ -6779,12 +9142,19 @@
         }
     },
     "Bena": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
-        "makings": null,
+        "makings": {
+            "type": [
+                "magic"
+            ],
+            "magic": []
+        },
         "skill1": {
             "type": [
                 "physical"
@@ -6804,13 +9174,16 @@
         }
     },
     "Enforcer": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "ignoredFixed"
             ],
             "ignoredFixed": []
@@ -6829,13 +9202,18 @@
         }
     },
     "Kazemaru": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": [
+                "magic"
+            ],
+            "magic": [
                 "multiply"
             ],
             "multiply": []
@@ -6853,12 +9231,17 @@
                 "physical"
             ],
             "physical": [
-                "multiply"
+                "addition"
+            ],
+            "magic": [
+                "addition"
             ]
         }
     },
     "Gravel": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -6878,7 +9261,9 @@
         }
     },
     "Shaw": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -6902,7 +9287,9 @@
         }
     },
     "Rope": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -6926,7 +9313,9 @@
         }
     },
     "Ethan": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
@@ -6943,18 +9332,21 @@
                 "physical"
             ],
             "physical": [
-                "multiply"
+                "addition"
             ]
         }
     },
     "Jaye": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "multiply"
             ],
             "multiply": []
@@ -6977,13 +9369,16 @@
         }
     },
     "ThrmEx": {
-        "normalAttack": "physical",
+        "normalAttack": [
+            "physical"
+        ],
         "position": "short",
         "camp": null,
         "summon": null,
         "characteristic": null,
         "makings": {
-            "calculatePosition": [
+            "type": null,
+            "physical": [
                 "multiply"
             ],
             "multiply": []
