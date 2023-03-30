@@ -215,7 +215,7 @@
                 ],
                 [
                     "前衛アーミヤ",
-                    ""
+                    "VanguardAmiya"
                 ],
                 [
                     "Tachanka",
@@ -298,7 +298,7 @@
             "star1": [
                 [
                     "Castle-3",
-                    ""
+                    "Castle3"
                 ]
             ]
         },
@@ -435,27 +435,27 @@
             "star6": [
                 [
                     "エクシア",
-                    "exusiai"
+                    "Exusiai"
                 ],
                 [
                     "シュヴァルツ",
-                    "schwarz"
+                    "Schwarz"
                 ],
                 [
                     "ロサ",
-                    "poca"
+                    "Poca"
                 ],
                 [
                     "W",
-                    "w"
+                    "W"
                 ],
                 [
                     "ロスモンティス",
-                    "rosmontis"
+                    "Rosmontis"
                 ],
                 [
                     "アルケット",
-                    "archetto"
+                    "Archetto"
                 ],
                 [
                     "Ash",
@@ -475,7 +475,7 @@
                 ],
                 [
                     "パゼオンカ",
-                    "pazeonka"
+                    "Pazeonka"
                 ]
             ],
             "star5": [
@@ -703,7 +703,7 @@
                 ],
                 [
                     "アステジーニ",
-                    ""
+                    "Astgenne"
                 ]
             ],
             "star4": [
@@ -2867,7 +2867,7 @@
             ]
         }
     },
-    "vanguardAmiya": {
+    "VanguardAmiya": {
         "normalAttack": [
             "magic"
         ],
@@ -4327,7 +4327,7 @@
             "physical": []
         }
     },
-    "exusiai": {
+    "Exusiai": {
         "normalAttack": [
             "physical"
         ],
@@ -4373,7 +4373,7 @@
             ]
         }
     },
-    "schwarz": {
+    "Schwarz": {
         "normalAttack": [
             "physical"
         ],
@@ -4417,7 +4417,7 @@
             ]
         }
     },
-    "poca": {
+    "Poca": {
         "normalAttack": [
             "physical"
         ],
@@ -4459,7 +4459,7 @@
             ]
         }
     },
-    "w": {
+    "W": {
         "normalAttack": [
             "physical"
         ],
@@ -4505,7 +4505,7 @@
             ]
         }
     },
-    "rosmontis": {
+    "Rosmontis": {
         "normalAttack": [
             "physical"
         ],
@@ -4559,7 +4559,7 @@
             ]
         }
     },
-    "archetto": {
+    "Archetto": {
         "normalAttack": [
             "physical"
         ],
@@ -4760,7 +4760,7 @@
             ]
         }
     },
-    "pazeonka": {
+    "Pazeonka": {
         "normalAttack": [
             "physical"
         ],
