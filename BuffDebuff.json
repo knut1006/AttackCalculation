@@ -1,0 +1,629 @@
+{
+    "オペレーター": {
+        "buff": {
+            "way": [
+                "skill",
+                "makings"
+            ]
+        },
+        "debuff": {
+            "physical": {
+                "caluculation": "addition"
+            }
+        },
+        "vulnerable": {
+            "calculation": "normal"
+        },
+        "increace": {
+            "type": "physical"
+        }
+    },
+    "SkadiTheCorruptingHeart": {
+        "buff": {
+            "way": [
+                "skill"
+            ],
+            "skill": {
+                "caluculation": "inspire",
+                "value": []
+            }
+        }
+    },
+    "Sora": {
+        "buff": {
+            "way": [
+                "skill"
+            ],
+            "skill": {
+                "caluculation": "inspire",
+                "value": []
+            }
+        }
+    },
+    "Heidi": {
+        "buff": {
+            "way": [
+                "skill",
+                "makings"
+            ],
+            "skill": {
+                "caluculation": "inspire",
+                "value": []
+            },
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Warfarin": {
+        "buff": {
+            "way": [
+                "skill"
+            ],
+            "skill": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Aak": {
+        "buff": {
+            "way": [
+                "skill"
+            ],
+            "skill": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "VanguardAmiya": {
+        "buff": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Exusiai": {
+        "buff": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Castle": {
+        "buff": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Pallas": {
+        "buff": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Swire": {
+        "buff": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Doberman": {
+        "buff": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Skadi": {
+        "buff": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Horn": {
+        "buff": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Schwarz": {
+        "buff": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        },
+        "debuff": {
+            "physical": {
+                "way": [
+                    "makings"
+                ],
+                "makings": {
+                    "caluculation": "division",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Eyjafialla": {
+        "buff": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        },
+        "debuff": {
+            "magic": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "division",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Siege": {
+        "buff": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Zimmer": {
+        "buff": {
+            "way": [
+                "skill"
+            ],
+            "skill": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Podenco": {
+        "buff": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Windflit": {
+        "buff": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Poca": {
+        "buff": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Rosmontis": {
+        "buff": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "addition",
+                "value": []
+            }
+        },
+        "debuff": {
+            "physical": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "subtract",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Elysium": {
+        "debuff": {
+            "physical": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "division",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Pramanix": {
+        "debuff": {
+            "physical": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "division",
+                    "value": []
+                }
+            },
+            "magic": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "division",
+                    "value": []
+                }
+            }
+        },
+        "vulnerable": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "normal",
+                "value": []
+            }
+        }
+    },
+    "Shamare": {
+        "debuff": {
+            "physical": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "division",
+                    "value": []
+                }
+            }
+        },
+        "vulnerable": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "normal",
+                "value": []
+            }
+        }
+    },
+    "Meteor": {
+        "debuff": {
+            "physical": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "division",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Dorothy": {
+        "debuff": {
+            "physical": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "division",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Toddifons": {
+        "debuff": {
+            "physical": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "division",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Pazeonka": {
+        "debuff": {
+            "physical": {
+                "way": [
+                    "makings"
+                ],
+                "makings": {
+                    "caluculation": "division",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Meteorite": {
+        "debuff": {
+            "physical": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "subtract",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Ifrit": {
+        "debuff": {
+            "physical": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "subtract",
+                    "value": []
+                }
+            },
+            "magic": {
+                "way": [
+                    "makings",
+                    "skill"
+                ],
+                "makings": {
+                    "caluculation": "division",
+                    "value": []
+                },
+                "skill": {
+                    "caluculation": "subtract",
+                    "value": []
+                }
+            }
+        }
+    },
+    "ChenTheHolungday": {
+        "debuff": {
+            "physical": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "lastSubtract",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Shalem": {
+        "debuff": {
+            "magic": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "division",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Chiave": {
+        "debuff": {
+            "magic": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "division",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Haze": {
+        "debuff": {
+            "magic": {
+                "way": [
+                    "makings"
+                ],
+                "makings": {
+                    "caluculation": "division",
+                    "value": []
+                }
+            }
+        }
+    },
+    "LeonHardt": {
+        "debuff": {
+            "magic": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "division",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Gnosis": {
+        "vulnerable": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "normal",
+                "value": []
+            }
+        }
+    },
+    "Suzuran": {
+        "vulnerable": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "normal",
+                "value": []
+            }
+        }
+    },
+    "ThrmEx": {
+        "vulnerable": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "normal",
+                "value": []
+            }
+        }
+    },
+    "Saileach": {
+        "vulnerable": {
+            "way": [
+                "skill"
+            ],
+            "skill": {
+                "caluculation": "normal",
+                "value": []
+            }
+        }
+    },
+    "JusticeKnight": {
+        "vulnerable": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "normal",
+                "value": []
+            }
+        }
+    },
+    "HibiscusThePurifier": {
+        "vulnerable": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "normal",
+                "value": []
+            }
+        }
+    },
+    "W": {
+        "increace": {
+            "physicl": {
+                "way": [
+                    "makings"
+                ],
+                "makings": {
+                    "caluculation": "normal",
+                    "value": []
+                }
+            }
+        }
+    },
+    "sesa":{
+        "increace": {
+            "physicl": {
+                "way": [
+                    "makings"
+                ],
+                "makings": {
+                    "caluculation": "normal",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Saria":{
+        "increace": {
+            "magic": {
+                "way": [
+                    "skill"
+                ],
+                "skill": {
+                    "caluculation": "normal",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Skyfire":{
+        "magic": {
+            "way": [
+                "makings"
+            ],
+            "makings": {
+                "caluculation": "normal",
+                "value": []
+            }
+        }
+    }
+}
