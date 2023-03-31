@@ -19,6 +19,7 @@
         }
     },
     "SkadiTheCorruptingHeart": {
+        "name": "濁心スカジ",
         "buff": {
             "way": [
                 "skill"
@@ -30,6 +31,7 @@
         }
     },
     "Sora": {
+        "name": "ソラ",
         "buff": {
             "way": [
                 "skill"
@@ -41,6 +43,7 @@
         }
     },
     "Heidi": {
+        "name": "ハイディ",
         "buff": {
             "way": [
                 "skill",
@@ -57,6 +60,7 @@
         }
     },
     "Warfarin": {
+        "name": "ワルファリン",
         "buff": {
             "way": [
                 "skill"
@@ -68,6 +72,7 @@
         }
     },
     "Aak": {
+        "name": "ア",
         "buff": {
             "way": [
                 "skill"
@@ -79,6 +84,7 @@
         }
     },
     "VanguardAmiya": {
+        "name": "前衛アーミヤ",
         "buff": {
             "way": [
                 "makings"
@@ -90,6 +96,7 @@
         }
     },
     "Exusiai": {
+        "name": "エクシア",
         "buff": {
             "way": [
                 "makings"
@@ -100,7 +107,8 @@
             }
         }
     },
-    "Castle": {
+    "Castle3": {
+        "name": "Castle-3",
         "buff": {
             "way": [
                 "makings"
@@ -112,6 +120,7 @@
         }
     },
     "Pallas": {
+        "name": "パラス",
         "buff": {
             "way": [
                 "makings"
@@ -123,6 +132,7 @@
         }
     },
     "Swire": {
+        "name": "スワイヤー",
         "buff": {
             "way": [
                 "makings"
@@ -134,6 +144,7 @@
         }
     },
     "Doberman": {
+        "name": "ドーベルマン",
         "buff": {
             "way": [
                 "makings"
@@ -145,6 +156,7 @@
         }
     },
     "Skadi": {
+        "name": "スカジ",
         "buff": {
             "way": [
                 "makings"
@@ -156,6 +168,7 @@
         }
     },
     "Horn": {
+        "name": "ホルン",
         "buff": {
             "way": [
                 "makings"
@@ -167,6 +180,7 @@
         }
     },
     "Schwarz": {
+        "name": "シュヴァルツ",
         "buff": {
             "way": [
                 "makings"
@@ -189,6 +203,7 @@
         }
     },
     "Eyjafialla": {
+        "name": "エイヤフィヤトラ",
         "buff": {
             "way": [
                 "makings"
@@ -211,6 +226,7 @@
         }
     },
     "Siege": {
+        "name": "シージ",
         "buff": {
             "way": [
                 "makings"
@@ -222,6 +238,7 @@
         }
     },
     "Zimmer": {
+        "name": "ズィマー",
         "buff": {
             "way": [
                 "skill"
@@ -233,6 +250,7 @@
         }
     },
     "Podenco": {
+        "name": "ポデンコ",
         "buff": {
             "way": [
                 "makings"
@@ -244,6 +262,7 @@
         }
     },
     "Windflit": {
+        "name": "ウインドフリット",
         "buff": {
             "way": [
                 "makings"
@@ -255,6 +274,7 @@
         }
     },
     "Poca": {
+        "name": "ロサ",
         "buff": {
             "way": [
                 "makings"
@@ -266,6 +286,7 @@
         }
     },
     "Rosmontis": {
+        "name": "ロスモンティス",
         "buff": {
             "way": [
                 "makings"
@@ -288,6 +309,7 @@
         }
     },
     "Elysium": {
+        "name": "エリジウム",
         "debuff": {
             "physical": {
                 "way": [
@@ -301,6 +323,7 @@
         }
     },
     "Pramanix": {
+        "name": "プラマニクス",
         "debuff": {
             "physical": {
                 "way": [
@@ -332,6 +355,7 @@
         }
     },
     "Shamare": {
+        "name": "シャマレ",
         "debuff": {
             "physical": {
                 "way": [
@@ -354,6 +378,7 @@
         }
     },
     "Meteor": {
+        "name": "メテオ",
         "debuff": {
             "physical": {
                 "way": [
@@ -367,6 +392,7 @@
         }
     },
     "Dorothy": {
+        "name": "ドロシー",
         "debuff": {
             "physical": {
                 "way": [
@@ -380,6 +406,7 @@
         }
     },
     "Toddifons": {
+        "name": "トギフォンス",
         "debuff": {
             "physical": {
                 "way": [
@@ -393,6 +420,7 @@
         }
     },
     "Pazeonka": {
+        "name": "パゼオンカ",
         "debuff": {
             "physical": {
                 "way": [
@@ -406,6 +434,7 @@
         }
     },
     "Meteorite": {
+        "name": "メテオリーテ",
         "debuff": {
             "physical": {
                 "way": [
@@ -419,6 +448,7 @@
         }
     },
     "Ifrit": {
+        "name": "イフリータ",
         "debuff": {
             "physical": {
                 "way": [
@@ -446,6 +476,7 @@
         }
     },
     "ChenTheHolungday": {
+        "name": "遊龍チェン",
         "debuff": {
             "physical": {
                 "way": [
@@ -459,6 +490,7 @@
         }
     },
     "Shalem": {
+        "name": "シャレム",
         "debuff": {
             "magic": {
                 "way": [
@@ -472,6 +504,7 @@
         }
     },
     "Chiave": {
+        "name": "キアーベ",
         "debuff": {
             "magic": {
                 "way": [
@@ -485,6 +518,7 @@
         }
     },
     "Haze": {
+        "name": "ヘイズ",
         "debuff": {
             "magic": {
                 "way": [
@@ -498,6 +532,7 @@
         }
     },
     "LeonHardt": {
+        "name": "レオンハルト",
         "debuff": {
             "magic": {
                 "way": [
@@ -511,6 +546,7 @@
         }
     },
     "Gnosis": {
+        "name": "ノーシス",
         "vulnerable": {
             "way": [
                 "makings"
@@ -522,6 +558,7 @@
         }
     },
     "Suzuran": {
+        "name": "スズラン",
         "vulnerable": {
             "way": [
                 "makings"
@@ -533,6 +570,7 @@
         }
     },
     "ThrmEx": {
+        "name": "THMR-EX",
         "vulnerable": {
             "way": [
                 "makings"
@@ -544,6 +582,7 @@
         }
     },
     "Saileach": {
+        "name": "サイラッハ",
         "vulnerable": {
             "way": [
                 "skill"
@@ -555,6 +594,7 @@
         }
     },
     "JusticeKnight": {
+        "name": "ジャスティスナイト",
         "vulnerable": {
             "way": [
                 "makings"
@@ -566,17 +606,19 @@
         }
     },
     "HibiscusThePurifier": {
+        "name": "濯塵ハイビスカス",
         "vulnerable": {
             "way": [
                 "makings"
             ],
             "makings": {
-                "caluculation": "normal",
+                "caluculation": "magic",
                 "value": []
             }
         }
     },
     "W": {
+        "name": "W",
         "increace": {
             "physicl": {
                 "way": [
@@ -589,7 +631,8 @@
             }
         }
     },
-    "sesa":{
+    "sesa": {
+        "name": "シェーシャ",
         "increace": {
             "physicl": {
                 "way": [
@@ -602,7 +645,8 @@
             }
         }
     },
-    "Saria":{
+    "Saria": {
+        "name": "サリア",
         "increace": {
             "magic": {
                 "way": [
@@ -615,14 +659,17 @@
             }
         }
     },
-    "Skyfire":{
-        "magic": {
-            "way": [
-                "makings"
-            ],
-            "makings": {
-                "caluculation": "normal",
-                "value": []
+    "Skyfire": {
+        "name": "スカイフレア",
+        "increace": {
+            "magic": {
+                "way": [
+                    "makings"
+                ],
+                "makings": {
+                    "caluculation": "normal",
+                    "value": []
+                }
             }
         }
     }
