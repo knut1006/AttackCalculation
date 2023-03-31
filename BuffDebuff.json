@@ -8,7 +8,7 @@
         },
         "debuff": {
             "physical": {
-                "caluculation": "addition"
+                "calculation": "addition"
             }
         },
         "vulnerable": {
@@ -25,7 +25,7 @@
                 "skill"
             ],
             "skill": {
-                "caluculation": "inspire",
+                "calculation": "inspire",
                 "value": []
             }
         }
@@ -37,7 +37,7 @@
                 "skill"
             ],
             "skill": {
-                "caluculation": "inspire",
+                "calculation": "inspire",
                 "value": []
             }
         }
@@ -46,15 +46,15 @@
         "name": "ハイディ",
         "buff": {
             "way": [
-                "skill",
-                "makings"
+                "makings",
+                "skill"
             ],
-            "skill": {
-                "caluculation": "inspire",
+            "makings": {
+                "calculation": "addition",
                 "value": []
             },
-            "makings": {
-                "caluculation": "addition",
+            "skill": {
+                "calculation": "inspire",
                 "value": []
             }
         }
@@ -66,7 +66,7 @@
                 "skill"
             ],
             "skill": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         }
@@ -78,7 +78,7 @@
                 "skill"
             ],
             "skill": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         }
@@ -90,7 +90,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         }
@@ -102,7 +102,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         }
@@ -114,7 +114,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         }
@@ -126,7 +126,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         }
@@ -138,7 +138,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         }
@@ -150,7 +150,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         }
@@ -162,7 +162,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         }
@@ -174,7 +174,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         }
@@ -186,7 +186,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         },
@@ -196,7 +196,7 @@
                     "makings"
                 ],
                 "makings": {
-                    "caluculation": "division",
+                    "calculation": "division",
                     "value": []
                 }
             }
@@ -209,7 +209,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         },
@@ -219,7 +219,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "division",
+                    "calculation": "division",
                     "value": []
                 }
             }
@@ -232,7 +232,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         }
@@ -244,7 +244,7 @@
                 "skill"
             ],
             "skill": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         }
@@ -256,7 +256,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         }
@@ -268,7 +268,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         }
@@ -280,7 +280,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         }
@@ -292,7 +292,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "addition",
+                "calculation": "addition",
                 "value": []
             }
         },
@@ -302,7 +302,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "subtract",
+                    "calculation": "subtract",
                     "value": []
                 }
             }
@@ -316,7 +316,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "division",
+                    "calculation": "division",
                     "value": []
                 }
             }
@@ -330,7 +330,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "division",
+                    "calculation": "division",
                     "value": []
                 }
             },
@@ -339,7 +339,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "division",
+                    "calculation": "division",
                     "value": []
                 }
             }
@@ -349,7 +349,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "normal",
+                "calculation": "normal",
                 "value": []
             }
         }
@@ -362,7 +362,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "division",
+                    "calculation": "division",
                     "value": []
                 }
             }
@@ -372,7 +372,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "normal",
+                "calculation": "normal",
                 "value": []
             }
         }
@@ -385,7 +385,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "division",
+                    "calculation": "division",
                     "value": []
                 }
             }
@@ -399,7 +399,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "division",
+                    "calculation": "division",
                     "value": []
                 }
             }
@@ -413,7 +413,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "division",
+                    "calculation": "division",
                     "value": []
                 }
             }
@@ -427,7 +427,7 @@
                     "makings"
                 ],
                 "makings": {
-                    "caluculation": "division",
+                    "calculation": "division",
                     "value": []
                 }
             }
@@ -441,7 +441,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "subtract",
+                    "calculation": "subtract",
                     "value": []
                 }
             }
@@ -455,7 +455,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "subtract",
+                    "calculation": "subtract",
                     "value": []
                 }
             },
@@ -465,11 +465,11 @@
                     "skill"
                 ],
                 "makings": {
-                    "caluculation": "division",
+                    "calculation": "division",
                     "value": []
                 },
                 "skill": {
-                    "caluculation": "subtract",
+                    "calculation": "subtract",
                     "value": []
                 }
             }
@@ -483,7 +483,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "lastSubtract",
+                    "calculation": "lastSubtract",
                     "value": []
                 }
             }
@@ -497,7 +497,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "division",
+                    "calculation": "division",
                     "value": []
                 }
             }
@@ -511,7 +511,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "division",
+                    "calculation": "division",
                     "value": []
                 }
             }
@@ -525,7 +525,7 @@
                     "makings"
                 ],
                 "makings": {
-                    "caluculation": "division",
+                    "calculation": "division",
                     "value": []
                 }
             }
@@ -539,7 +539,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "division",
+                    "calculation": "division",
                     "value": []
                 }
             }
@@ -552,7 +552,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "normal",
+                "calculation": "normal",
                 "value": []
             }
         }
@@ -564,7 +564,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "normal",
+                "calculation": "normal",
                 "value": []
             }
         }
@@ -576,7 +576,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "normal",
+                "calculation": "normal",
                 "value": []
             }
         }
@@ -588,7 +588,7 @@
                 "skill"
             ],
             "skill": {
-                "caluculation": "normal",
+                "calculation": "normal",
                 "value": []
             }
         }
@@ -600,7 +600,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "normal",
+                "calculation": "normal",
                 "value": []
             }
         }
@@ -612,7 +612,7 @@
                 "makings"
             ],
             "makings": {
-                "caluculation": "magic",
+                "calculation": "magic",
                 "value": []
             }
         }
@@ -625,7 +625,7 @@
                     "makings"
                 ],
                 "makings": {
-                    "caluculation": "normal",
+                    "calculation": "normal",
                     "value": []
                 }
             }
@@ -639,7 +639,7 @@
                     "makings"
                 ],
                 "makings": {
-                    "caluculation": "normal",
+                    "calculation": "normal",
                     "value": []
                 }
             }
@@ -653,7 +653,7 @@
                     "skill"
                 ],
                 "skill": {
-                    "caluculation": "normal",
+                    "calculation": "normal",
                     "value": []
                 }
             }
@@ -667,7 +667,7 @@
                     "makings"
                 ],
                 "makings": {
-                    "caluculation": "normal",
+                    "calculation": "normal",
                     "value": []
                 }
             }
