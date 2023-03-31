@@ -1781,7 +1781,9 @@
         "summon": "possession",
         "characteristic": {
             "type": null,
-            "physical": "multiply",
+            "physical": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
@@ -2297,13 +2299,13 @@
                 "fixedDamage"
             ],
             "physical": [
-                "vulnerable"
+                "ignoredPercentage"
             ],
             "fixedDamage": [
                 "multiply"
             ],
             "multiply": [],
-            "vulnerable": []
+            "ignoredPercentage": []
         },
         "skill1": {
             "type": [
@@ -2345,16 +2347,18 @@
         "characteristic": {
             "type": null,
             "physical": [
-                "minimum"
+                "ignoredFixed"
             ],
-            "minimum": []
+            "ignoredFixed": []
         },
         "makings": {
             "type": null,
             "physical": [
-                "vulnerable"
+                "ignoredPercentage",
+                "addition"
             ],
-            "vulnerable": []
+            "ignoredPercentage": [],
+            "addition": []
         },
         "skill1": {
             "type": [
