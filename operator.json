@@ -1522,7 +1522,7 @@
             ],
             "magic": [
                 "addition",
-                "multiply"
+                "chase-magic"
             ]
         }
     },
@@ -2030,7 +2030,7 @@
                 "multiply"
             ],
             "magic": [
-                "multiply"
+                "chase-magic"
             ]
         },
         "skill3": {
@@ -2302,7 +2302,7 @@
                 "ignoredPercentage"
             ],
             "fixedDamage": [
-                "multiply"
+                "chase-fixedDamage"
             ],
             "multiply": [],
             "ignoredPercentage": []
@@ -2907,7 +2907,7 @@
             ],
             "fixedDamage": [
                 "addition",
-                "multiply"
+                "chase-fixedDamage"
             ]
         }
     },
@@ -2938,7 +2938,7 @@
                 "ignoredFixed"
             ],
             "magic": [
-                "multiply"
+                "chase-magic"
             ]
         },
         "skill2": {
@@ -3655,7 +3655,7 @@
                 "multiply"
             ],
             "heal": [
-                "multiply"
+                "chase-heal"
             ]
         },
         "skill2": {
@@ -3667,7 +3667,7 @@
                 "addition"
             ],
             "heal": [
-                "multiply"
+                "chase-heal"
             ]
         },
         "skill3": {
@@ -3680,10 +3680,10 @@
                 "addition"
             ],
             "magic": [
-                "multiply"
+                "chase-magic"
             ],
             "heal": [
-                "multiply"
+                "chase-heal"
             ]
         }
     },
@@ -3754,7 +3754,7 @@
                 "multiply"
             ],
             "magic": [
-                "multiply"
+                "chase-magic"
             ]
         },
         "skill3": {
@@ -7206,7 +7206,7 @@
                 "multiply"
             ],
             "heal": [
-                "multiply"
+                "chase-heal"
             ]
         }
     },
@@ -8638,7 +8638,7 @@
                 "addition"
             ],
             "magic": [
-                "multiply",
+                "chase-magic",
                 "addition"
             ],
             "addition": []
@@ -9133,7 +9133,7 @@
             ],
             "physical": [],
             "magic": [
-                "multiply"
+                "chase-magic"
             ]
         },
         "skill2": {
