@@ -3683,9 +3683,11 @@
                 "addition"
             ],
             "magic": [
+                "addition",
                 "chase-magic"
             ],
             "heal": [
+                "addition",
                 "chase-heal"
             ]
         }
