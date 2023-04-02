@@ -349,7 +349,7 @@
                 "makings"
             ],
             "makings": {
-                "calculation": "normal",
+                "calculation": "all",
                 "value": []
             }
         }
@@ -372,7 +372,7 @@
                 "makings"
             ],
             "makings": {
-                "calculation": "normal",
+                "calculation": "all",
                 "value": []
             }
         }
@@ -552,7 +552,7 @@
                 "makings"
             ],
             "makings": {
-                "calculation": "normal",
+                "calculation": "all",
                 "value": []
             }
         }
@@ -564,7 +564,7 @@
                 "makings"
             ],
             "makings": {
-                "calculation": "normal",
+                "calculation": "all",
                 "value": []
             }
         }
@@ -576,7 +576,7 @@
                 "makings"
             ],
             "makings": {
-                "calculation": "normal",
+                "calculation": "all",
                 "value": []
             }
         }
@@ -588,7 +588,7 @@
                 "skill"
             ],
             "skill": {
-                "calculation": "normal",
+                "calculation": "all",
                 "value": []
             }
         }
@@ -600,7 +600,7 @@
                 "makings"
             ],
             "makings": {
-                "calculation": "normal",
+                "calculation": "all",
                 "value": []
             }
         }
