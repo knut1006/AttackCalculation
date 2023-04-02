@@ -154,6 +154,10 @@
                 [
                     "百錬ガヴィル",
                     "GavialTheInvincible"
+                ],
+                [
+                    "ムリナール",
+                    "Mlynar"
                 ]
             ],
             "star5": [
@@ -938,6 +942,10 @@
                 [
                     "ウインドフリット",
                     "Windflit"
+                ],
+                [
+                    "プロヴァイゾ",
+                    "Proviso"
                 ]
             ],
             "star4": [
@@ -2425,6 +2433,64 @@
             ]
         }
     },
+    "Mlynar": {
+        "normalAttack": [
+            "physical"
+        ],
+        "position": "short",
+        "camp": null,
+        "summon": null,
+        "characteristic": {
+            "type": null,
+            "physical": [
+                "addition"
+            ],
+            "fixedDamage": [
+                "addition"
+            ],
+            "addition": []
+        },
+        "makings": {
+            "type": [
+                "chase-fixedDamage"
+            ],
+            "physical": [
+                "multiply"
+            ],
+            "fixedDamage": null,
+            "multiply": []
+        },
+        "skill1": {
+            "type": [
+                "physical"
+            ],
+            "physical": [
+                "multiply"
+            ],
+            "fixedDamage": null
+        },
+        "skill2": {
+            "type": [
+                "physical"
+            ],
+            "physical": [
+                "multiply"
+            ],
+            "fixedDamage": null
+        },
+        "skill3": {
+            "type": [
+                "physical",
+                "fixedDamage"
+            ],
+            "physical": [
+                "multiply"
+            ],
+            "fixedDamage": [
+                "chase-fixedDamage"
+            ]
+        }
+    },
     "Indra": {
         "normalAttack": [
             "physical"
@@ -3644,7 +3710,7 @@
             "magic": [
                 "multiply"
             ],
-            "heal" : [
+            "heal": [
                 "multiply"
             ],
             "multiply": []
@@ -8332,6 +8398,38 @@
             ],
             "physical": [
                 "addition"
+            ]
+        }
+    },
+    "Proviso": {
+        "normalAttack": [
+            "magic"
+        ],
+        "position": "long",
+        "camp": null,
+        "summon": null,
+        "characteristic": null,
+        "makings": {
+            "type": null,
+            "magic": [
+                "addition"
+            ],
+            "addition": []
+        },
+        "skill1": {
+            "type": [
+                "magic"
+            ],
+            "magic": [
+                "multiply"
+            ]
+        },
+        "skill2": {
+            "type": [
+                "magic"
+            ],
+            "magic": [
+                "multiply"
             ]
         }
     },
