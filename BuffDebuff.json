@@ -672,5 +672,33 @@
                 }
             }
         }
+    },
+    "Nearl": {
+        "name": "ニアール",
+        "increace": {
+            "heal": {
+                "way": [
+                    "makings"
+                ],
+                "makings": {
+                    "calculation": "normal",
+                    "value": []
+                }
+            }
+        }
+    },
+    "Sussurro": {
+        "name": "ススーロ",
+        "increace": {
+            "heal": {
+                "way": [
+                    "makings"
+                ],
+                "makings": {
+                    "calculation": "normal",
+                    "value": []
+                }
+            }
+        }
     }
 }
