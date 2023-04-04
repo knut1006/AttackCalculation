@@ -2452,12 +2452,14 @@
         },
         "makings": {
             "type": [
-                "chase-fixedDamage"
+                "fixedDamage"
             ],
             "physical": [
                 "multiply"
             ],
-            "fixedDamage": null,
+            "fixedDamage": [
+                "chase-fixedDamage"
+            ],
             "multiply": []
         },
         "skill1": {
@@ -8756,9 +8758,7 @@
             "physical": [
                 "multiply"
             ],
-            "magic": [
-                "multiply"
-            ]
+            "magic": null
         },
         "skill2": {
             "type": [
