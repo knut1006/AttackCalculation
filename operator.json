@@ -2321,7 +2321,8 @@
             ],
             "physical": [
                 "addition"
-            ]
+            ],
+            "fixedDamage": []
         },
         "skill2": {
             "type": [
@@ -2329,7 +2330,8 @@
             ],
             "physical": [
                 "addition"
-            ]
+            ],
+            "fixedDamage": []
         },
         "skill3": {
             "type": [
@@ -2469,7 +2471,7 @@
             "physical": [
                 "multiply"
             ],
-            "fixedDamage": null
+            "fixedDamage": []
         },
         "skill2": {
             "type": [
@@ -2478,7 +2480,7 @@
             "physical": [
                 "multiply"
             ],
-            "fixedDamage": null
+            "fixedDamage": []
         },
         "skill3": {
             "type": [
@@ -8758,7 +8760,7 @@
             "physical": [
                 "multiply"
             ],
-            "magic": null
+            "magic": []
         },
         "skill2": {
             "type": [
