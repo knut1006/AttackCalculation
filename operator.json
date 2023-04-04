@@ -2310,7 +2310,6 @@
                 "multiply"
             ],
             "fixedDamage": [
-                "multiply",
                 "chase-fixedDamage"
             ],
             "multiply": []
