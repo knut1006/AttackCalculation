@@ -736,5 +736,17 @@
                 "value": []
             }
         }
+    },
+    "EclipseMark": {
+        "name": "明晦の印",
+        "buff": {
+            "way": [
+                "gimmick"
+            ],
+            "gimmick": {
+                "calculation": "multiply",
+                "value": []
+            }
+        }
     }
 }
