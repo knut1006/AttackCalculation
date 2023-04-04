@@ -700,5 +700,41 @@
                 }
             }
         }
+    },
+    "Security Station": {
+        "name": "保全駐在",
+        "buff": {
+            "way": [
+                "gimmick"
+            ],
+            "gimmick": {
+                "calculation": "addition",
+                "value": []
+            }
+        }
+    },
+    "Anti-Air Area": {
+        "name": "対空エリア",
+        "buff": {
+            "way": [
+                "gimmick"
+            ],
+            "gimmick": {
+                "calculation": "multiply",
+                "value": []
+            }
+        }
+    },
+    "Originium": {
+        "name": "活性源石",
+        "buff": {
+            "way": [
+                "gimmick"
+            ],
+            "gimmick": {
+                "calculation": "addition",
+                "value": []
+            }
+        }
     }
 }
