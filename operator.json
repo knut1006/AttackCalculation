@@ -2004,12 +2004,12 @@
         "characteristic": {
             "type": null,
             "physical": [
-                "increase"
+                "increace"
             ],
             "magic": [
-                "increase"
+                "increace"
             ],
-            "increase": []
+            "increace": []
         },
         "makings": {
             "type": null,
@@ -2886,9 +2886,9 @@
         "makings": {
             "type": null,
             "physical": [
-                "increase"
+                "increace"
             ],
-            "increase": []
+            "increace": []
         },
         "skill1": {
             "type": [
@@ -2987,10 +2987,10 @@
         "characteristic": {
             "type": null,
             "physical": [
-                "increase"
+                "increace"
             ],
             "magic": [
-                "increase"
+                "increace"
             ],
             "multiply": []
         },
@@ -3310,7 +3310,7 @@
             "physical": [
                 "ignoredFixed"
             ],
-            "increase": []
+            "increace": []
         },
         "makings": null,
         "skill1": {
@@ -3980,9 +3980,9 @@
         "makings": {
             "type": null,
             "heal": [
-                "increase"
+                "increace"
             ],
-            "increase": []
+            "increace": []
         },
         "skill1": {
             "type": [
@@ -4551,9 +4551,9 @@
         "makings": {
             "type": null,
             "physical": [
-                "increase"
+                "increace"
             ],
-            "increase": []
+            "increace": []
         },
         "skill1": {
             "type": [
@@ -4754,9 +4754,9 @@
         "characteristic": {
             "type": null,
             "physical": [
-                "increase"
+                "increace"
             ],
-            "increase": []
+            "increace": []
         },
         "makings": {
             "type": null,
@@ -4785,7 +4785,7 @@
             ],
             "physical": [
                 "addition",
-                "increase"
+                "increace"
             ]
         }
     },
@@ -5169,9 +5169,9 @@
         "makings": {
             "type": null,
             "physical": [
-                "increase"
+                "increace"
             ],
-            "increase": []
+            "increace": []
         },
         "skill1": {
             "type": [
@@ -5200,9 +5200,9 @@
         "characteristic": {
             "type": null,
             "physical": [
-                "increase"
+                "increace"
             ],
-            "increase": []
+            "increace": []
         },
         "makings": null,
         "skill1": {
@@ -6036,10 +6036,10 @@
         "makings": {
             "type": null,
             "magic": [
-                "increase",
+                "increace",
                 "addition"
             ],
-            "increase": [],
+            "increace": [],
             "addition": []
         },
         "skill1": {
@@ -6098,7 +6098,7 @@
             ],
             "magic": [
                 "addition",
-                "increase"
+                "increace"
             ]
         }
     },
@@ -6225,9 +6225,9 @@
         "makings": {
             "type": null,
             "magic": [
-                "increase"
+                "increace"
             ],
-            "increase": []
+            "increace": []
         },
         "skill1": {
             "type": [
@@ -6356,9 +6356,9 @@
         "makings": {
             "type": null,
             "magic": [
-                "increase"
+                "increace"
             ],
-            "increase": []
+            "increace": []
         },
         "skill1": {
             "type": [
@@ -6980,9 +6980,9 @@
         "makings": {
             "type": null,
             "heal": [
-                "increase"
+                "increace"
             ],
-            "increase": []
+            "increace": []
         },
         "skill1": {
             "type": [
@@ -7555,9 +7555,9 @@
         "makings": {
             "type": null,
             "heal": [
-                "increase"
+                "increace"
             ],
-            "increase": []
+            "increace": []
         },
         "skill1": {
             "type": [
@@ -7593,9 +7593,9 @@
         "makings": {
             "type": null,
             "heal": [
-                "increase"
+                "increace"
             ],
-            "increase": []
+            "increace": []
         },
         "skill1": {
             "type": [
@@ -7631,9 +7631,9 @@
         "makings": {
             "type": null,
             "heal": [
-                "increase"
+                "increace"
             ],
-            "increase": []
+            "increace": []
         },
         "skill1": {
             "type": [
