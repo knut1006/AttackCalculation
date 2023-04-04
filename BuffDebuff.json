@@ -701,7 +701,7 @@
             }
         }
     },
-    "Security Station": {
+    "SecurityStation": {
         "name": "保全駐在",
         "buff": {
             "way": [
@@ -713,7 +713,7 @@
             }
         }
     },
-    "Anti-Air Area": {
+    "AntiAirArea": {
         "name": "対空エリア",
         "buff": {
             "way": [
