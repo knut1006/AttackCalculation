@@ -2635,6 +2635,9 @@
             "physical": [
                 "multiply"
             ],
+            "magic": [
+                "multiply"
+            ],
             "multiply": []
         },
         "makings": null,
