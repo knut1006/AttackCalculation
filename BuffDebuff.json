@@ -708,7 +708,7 @@
                 "gimmick"
             ],
             "gimmick": {
-                "calculation": "addition",
+                "calculation": "multiply",
                 "value": []
             }
         }
