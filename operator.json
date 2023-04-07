@@ -9184,6 +9184,7 @@
             "type": [
                 "magic"
             ],
+            "physical": [],
             "magic": [
                 "multiply"
             ],
@@ -9195,7 +9196,8 @@
             ],
             "physical": [
                 "multiply"
-            ]
+            ],
+            "magic": []
         },
         "skill2": {
             "type": [
