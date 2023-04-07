@@ -3568,9 +3568,7 @@
             "magic": [
                 "multiply"
             ],
-            "heal": [
-                "multiply"
-            ],
+            "heal": [],
             "multiply": []
         },
         "skill1": {
