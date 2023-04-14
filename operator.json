@@ -3290,6 +3290,37 @@
             ]
         }
     },
+    "LuoXiaohet": {
+        "normalAttack": [
+            "physical"
+        ],
+        "position": "short",
+        "camp": null,
+        "summon": null,
+        "characteristic": {
+            "type" : null,
+            "physical" : [
+                "multiply"
+            ],
+            "multiply" : null
+        },
+        "makings": null,
+        "skill1": {
+            "type": [
+                "physical"
+            ],
+            "physical": []
+        },
+        "skill2": {
+            "type": [
+                "physical"
+            ],
+            "physical": [
+                "addition",
+                "ignoredFixed"
+            ]
+        }
+    },
     "Popukar": {
         "normalAttack": [
             "physical"
